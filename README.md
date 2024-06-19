@@ -1,6 +1,7 @@
 <img src="https://myreadme.vercel.app/api/embed/jordanpartridge?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-# Hi, I'm Jordan! 👋
+<img src="https://komarev.com/ghpvc/?username=jordanpartridge&color=brightgreen" alt="watching_count" />
+## Hi, I'm Jordan! 👋
 
 Welcome to my GitHub profile! I'm a passionate Laravel developer and engineering manager with a love for biking, clean code, and innovative solutions. Here's a bit more about me:
 
