@@ -23,7 +23,7 @@ I run a YouTube series detailing the integration of Slack into the development w
 
 I've been privileged to be involved in the development and continual maintenance of My Career Advisor.
 
-### [Bike Project](https://www.jordanpartridge.us/bike)
+### [Bike Ride Syncing from Strava API](https://www.jordanpartridge.us/bike)
 
 An ongoing project to sync my Strava bike rides with my personal website, showcasing interesting analysis and insights from each ride, all while supporting light and dark modes. This project includes:
 
