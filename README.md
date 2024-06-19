@@ -12,10 +12,11 @@ Welcome to my GitHub profile! I'm a passionate Laravel developer and engineering
 
 ## 📺 Check Out My YouTube Channel
 
-- 🎥 **Jordan's YouTube Channel**
+- 🎥 **Jordan Codes Laravel**
 
 I run a YouTube series detailing the integration of Slack into the development workflow with Laravel, and showcasing other interesting projects. My videos cover topics like setting up a Laravel app, reading Slack documentation, and using stacks for better notification management. Don't forget to subscribe for more content!
 
+### [Check me out on youtube(https://www.youtube.com/channel/UCM8yrvyqFf6IFlQIeGwIClQ)
 ## 🔭 Current Projects
 
 ### [My Career Advisor](https://www.mycareeradvisor.com)
@@ -66,4 +67,4 @@ Check out some of the cool projects and contributions I've made:
 
 ---
 
-Thank you for visiting my profile! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jordan-partridge-8284897/) or check out my [website](http://www.jordanpartridge.com) for more information.
+Thank you for visiting my profile! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jordan-l-partridge/) or check out my [website](http://www.jordanpartridge.us) for more information.
