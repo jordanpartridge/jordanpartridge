@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate Laravel developer and engineering
 
 I run a YouTube series detailing the integration of Slack into the development workflow with Laravel, and showcasing other interesting projects. My videos cover topics like setting up a Laravel app, reading Slack documentation, and using stacks for better notification management. Don't forget to subscribe for more content!
 
-### [Check me out on youtube(https://www.youtube.com/channel/UCM8yrvyqFf6IFlQIeGwIClQ)
+### [Check me out on youtube](https://www.youtube.com/channel/UCM8yrvyqFf6IFlQIeGwIClQ)
 ## 🔭 Current Projects
 
 ### [My Career Advisor](https://www.mycareeradvisor.com)
