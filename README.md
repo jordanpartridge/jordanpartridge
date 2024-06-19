@@ -1,4 +1,4 @@
-<img src="LinkedIn Banner.png"/>
+<img src="GitHub banner LinkedIn.png"/>
 <hr />
 <img src="https://myreadme.vercel.app/api/embed/jordanpartridge?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
