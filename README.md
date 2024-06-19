@@ -80,8 +80,8 @@ I'm an advocate for clean, efficient designs in both my professional and persona
       </a>
     </td>
     <td>
-      <a href="https://github.com/jordanpartridge/my-career-advisor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jordanpartridge&repo=my-career-advisor&theme=radical" alt="My Career Advisor">
+      <a href="https://github.com/synapse-sentinel/worker-api">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=synapse-sentinel&repo=worker-api&theme=radical" alt="My Career Advisor">
       </a>
     </td>
   </tr>
