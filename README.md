@@ -1,7 +1,8 @@
-Hi, I'm Jordan! 👋
+# Hi, I'm Jordan! 👋
+
 Welcome to my GitHub profile! I'm a passionate Laravel developer and engineering manager with a love for biking, clean code, and innovative solutions. Here's a bit more about me:
 
-🚀 About Me
+## 🚀 About Me
 <table>
   <tr>
     <td>
@@ -18,21 +19,22 @@ Welcome to my GitHub profile! I'm a passionate Laravel developer and engineering
     </td>
   </tr>
 </table>
-📺 Check Out My YouTube Channel
-🎥 Jordan Codes Laravel
+
+## 📺 Check Out My YouTube Channel
+**🎥 [Jordan Codes Laravel](https://www.youtube.com/channel/UCM8yrvyqFf6IFlQIeGwIClQ)**
 
 I run a YouTube series detailing the integration of Slack into the development workflow with Laravel, and showcasing other interesting projects. My videos cover topics like setting up a Laravel app, reading Slack documentation, and using stacks for better notification management. Don't forget to subscribe for more content!
 
-Featured Videos
+### Featured Videos
 <table>
   <tr>
-    <td align="center">
+    <td align="center" style="border: 2px solid #f1f1f1; padding: 10px;">
       <a href="https://www.youtube.com/watch?v=nc2f0edkr9U">
         <img src="https://img.youtube.com/vi/nc2f0edkr9U/0.jpg" alt="Faster Laravel Herd Tutorial" width="100%" />
       </a>
       <p><b>Faster Laravel Herd Tutorial</b></p>
     </td>
-    <td align="center">
+    <td align="center" style="border: 2px solid #f1f1f1; padding: 10px;">
       <a href="https://www.youtube.com/watch?v=ANuydSN7W1I&t=25s">
         <img src="https://img.youtube.com/vi/ANuydSN7W1I/0.jpg" alt="Logging with Slack" width="100%" />
       </a>
@@ -40,17 +42,22 @@ Featured Videos
     </td>
   </tr>
 </table>
-🔭 Current Projects
-My Career Advisor
-A career advisement platform connecting product professionals, engineers, designers, and product management people with great opportunities. This platform aims to address issues in the job market by providing highly qualified candidates to companies.
 
-Strava Integration
+## 🔭 Current Projects
+
+### [My Career Advisor](https://www.mycareeradvisor.com)
+A career advisement helping to end poverty with the power of work through the power of innovation
+
+
+
+### Strava Integration
 An ongoing project to sync my Strava bike rides with my personal website, showcasing interesting analysis and insights from each ride, all while supporting light and dark modes.
 
-🌐 Connect with Me
-LinkedIn
-Website
-🛠 Tech Stack
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/jordan-l-partridge/)  
+- [Website](https://www.jordanpartridge.us)
+
+## 🛠 Tech Stack
 <table>
   <tr>
     <td align="center"><b>Frontend</b></td>
@@ -65,13 +72,15 @@ Website
     <td>Agile, Test-Driven Development (TDD)</td>
   </tr>
 </table>
-🚴‍♂️ Fun Facts
-I love combining my passion for biking with my coding projects.
-I'm an advocate for clean, efficient designs in both my professional and personal projects.
-📈 GitHub Stats
 
+## 🚴‍♂️ Fun Facts
+- I love combining my passion for biking with my coding projects.
+- I'm an advocate for clean, efficient designs in both my professional and personal projects.
 
-📌 Pinned Repositories
+## 📈 GitHub Stats
+![Jordan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordanpartridge&show_icons=true&theme=radical)
+
+## 📌 Pinned Repositories
 <table>
   <tr>
     <td>
@@ -86,3 +95,6 @@ I'm an advocate for clean, efficient designs in both my professional and persona
     </td>
   </tr>
 </table>
+
+## 📅 Days Since Last Contributionless Day
+
