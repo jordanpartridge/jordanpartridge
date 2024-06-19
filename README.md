@@ -1,15 +1,11 @@
-<img src="GitHub banner LinkedIn.png"/>
+<img src="GitHub banner LinkedIn.png" style="width:100%;"/>
 <hr />
-<img src="https://myreadme.vercel.app/api/embed/jordanpartridge?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
+<img src="https://myreadme.vercel.app/api/embed/jordanpartridge?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" style="width:100%;"/>
 <img src="https://komarev.com/ghpvc/?username=jordanpartridge&color=brightgreen" alt="watching_count" />
-
-
-## Hi, I'm Jordan! 👋
-
+Hi, I'm Jordan! 👋
 Welcome to my GitHub profile! I'm a passionate Laravel developer and engineering manager with a love for biking, clean code, and innovative solutions. Here's a bit more about me:
 
-## 🚀 About Me
+🚀 About Me
 <table>
   <tr>
     <td>
@@ -26,13 +22,12 @@ Welcome to my GitHub profile! I'm a passionate Laravel developer and engineering
     </td>
   </tr>
 </table>
-
-## 📺 Check Out My YouTube Channel
-**🎥 [Jordan Codes Laravel](https://www.youtube.com/channel/UCM8yrvyqFf6IFlQIeGwIClQ)**
+📺 Check Out My YouTube Channel
+🎥 Jordan Codes Laravel
 
 I run a YouTube series detailing the integration of Slack into the development workflow with Laravel, and showcasing other interesting projects. My videos cover topics like setting up a Laravel app, reading Slack documentation, and using stacks for better notification management. Don't forget to subscribe for more content!
 
-### Featured Videos
+Featured Videos
 <table>
   <tr>
     <td align="center" style="border: 2px solid #f1f1f1; padding: 10px;">
@@ -49,24 +44,25 @@ I run a YouTube series detailing the integration of Slack into the development w
     </td>
   </tr>
 </table>
-
-## 🔭 Current Projects
-
-### [My Career Advisor](https://www.mycareeradvisor.com)
-A career advisement helping to end poverty with the power of work through the power of innovation
-
-
-
-### [My Personal Website - Jordan Partridge.us](https://www.jordanpartridge.us)
-An ongoing project to sync my Strava bike rides with my personal website, showcasing interesting analysis and insights from each ride, all while supporting light and dark modes.
-<img src="CleanShot 2024-06-19 at 15.44.00.gif">
-
-
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/jordan-l-partridge/)  
-- [Website](https://www.jordanpartridge.us)
-
-## 🛠 Tech Stack
+🔭 Current Projects
+<table>
+  <tr>
+    <td align="center">
+      <h3>💼 <a href="https://www.mycareeradvisor.com">My Career Advisor</a></h3>
+      <p>A career advisement helping to end poverty with the power of work through the power of innovation.</p>
+      <img src="CleanShot 2024-06-19 at 15.46.57.gif" style="width:100%;"/>
+    </td>
+    <td align="center">
+      <h3>🌐 <a href="https://www.jordanpartridge.us">My Personal Website - Jordan Partridge.us</a></h3>
+      <p>An ongoing project to sync my Strava bike rides with my personal website, showcasing interesting analysis and insights from each ride, all while supporting light and dark modes.</p>
+      <img src="CleanShot 2024-06-19 at 15.44.00.gif" style="width:100%;"/>
+    </td>
+  </tr>
+</table>
+🌐 Connect with Me
+LinkedIn
+Website
+🛠 Tech Stack
 <table>
   <tr>
     <td align="center"><b>Frontend</b></td>
@@ -81,16 +77,14 @@ An ongoing project to sync my Strava bike rides with my personal website, showca
     <td>Agile, Test-Driven Development (TDD)</td>
   </tr>
 </table>
+🚴‍♂️ Fun Facts
+I love combining my passion for biking with my coding projects.
+I'm an advocate for clean, efficient designs in both my professional and personal projects.
+📈 GitHub Stats
 
-## 🚴‍♂️ Fun Facts
-- I love combining my passion for biking with my coding projects.
-- I'm an advocate for clean, efficient designs in both my professional and personal projects.
-
-## 📈 GitHub Stats
-![Jordan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordanpartridge&show_icons=true&theme=radical)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jordanpartridge&theme=tokyonight" alt="mystreak"/>
 
-## 📌 Pinned Repositories
+📌 Pinned Repositories
 <table>
   <tr>
     <td>
@@ -105,5 +99,3 @@ An ongoing project to sync my Strava bike rides with my personal website, showca
     </td>
   </tr>
 </table>
-
-
