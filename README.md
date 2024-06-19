@@ -73,6 +73,11 @@ An ongoing project to sync my Strava bike rides with my personal website, showca
   </tr>
 </table>
 
+## Checkout my Latest stream
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jordanpartridge&theme=tokyonight" alt="mystreak"/>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jordanpartridge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 ## 🚴‍♂️ Fun Facts
 - I love combining my passion for biking with my coding projects.
 - I'm an advocate for clean, efficient designs in both my professional and personal projects.
