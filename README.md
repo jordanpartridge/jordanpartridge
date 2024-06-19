@@ -1,3 +1,5 @@
+<img src="LinkedIn Banner.png"/>
+<hr />
 <img src="https://myreadme.vercel.app/api/embed/jordanpartridge?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <img src="https://komarev.com/ghpvc/?username=jordanpartridge&color=brightgreen" alt="watching_count" />
