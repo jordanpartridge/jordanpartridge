@@ -96,5 +96,4 @@ An ongoing project to sync my Strava bike rides with my personal website, showca
   </tr>
 </table>
 
-## 📅 Days Since Last Contributionless Day
 
