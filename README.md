@@ -50,7 +50,7 @@ A career advisement helping to end poverty with the power of work through the po
 
 
 
-### [My Personal Website - Jordan Partridge.us](https://wwww.jordanpartridge.us)
+### [My Personal Website - Jordan Partridge.us](https://www.jordanpartridge.us)
 An ongoing project to sync my Strava bike rides with my personal website, showcasing interesting analysis and insights from each ride, all while supporting light and dark modes.
 
 ## 🌐 Connect with Me
