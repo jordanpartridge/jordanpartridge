@@ -1,3 +1,5 @@
+<img src="https://myreadme.vercel.app/api/embed/jordanpartridge?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 # Hi, I'm Jordan! 👋
 
 Welcome to my GitHub profile! I'm a passionate Laravel developer and engineering manager with a love for biking, clean code, and innovative solutions. Here's a bit more about me:
@@ -73,17 +75,13 @@ An ongoing project to sync my Strava bike rides with my personal website, showca
   </tr>
 </table>
 
-## Checkout my Latest stream
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jordanpartridge&theme=tokyonight" alt="mystreak"/>
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jordanpartridge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 ## 🚴‍♂️ Fun Facts
 - I love combining my passion for biking with my coding projects.
 - I'm an advocate for clean, efficient designs in both my professional and personal projects.
 
 ## 📈 GitHub Stats
 ![Jordan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordanpartridge&show_icons=true&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jordanpartridge&theme=tokyonight" alt="mystreak"/>
 
 ## 📌 Pinned Repositories
 <table>
