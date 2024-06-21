@@ -9,13 +9,22 @@ Welcome to my GitHub profile! I'm a passionate Laravel developer and engineering
 <table>
   <tr>
     <td>
-      <ul>
-        <li>🌟 <strong>Engineering Manager:</strong> Mentoring and leading a talented team of engineers.</li>
-        <li>💻 <strong>Tech Enthusiast:</strong> Skilled in Laravel, Livewire, Alpine.js, Tailwind CSS, Sanctum, Telescope, the TALL stack, TDD with Pest, and Agile methodologies.</li>
-        <li>🛠 <strong>Developer:</strong> Focused on building scalable and maintainable applications.</li>
-        <li>🚴‍♂️ <strong>Cyclist:</strong> Enthusiast of fat bikes, integrating my biking adventures with my coding projects.</li>
-        <li>🌱 <strong>Lifelong Learner:</strong> Continuously improving and exploring new technologies.</li>
-      </ul>
+      <p>🌟 <strong>Engineering Manager:</strong> Mentoring and leading a talented team of engineers.</p>
+      <p>💻 <strong>Tech Enthusiast:</strong> Skilled in Laravel, Livewire, Alpine.js, Tailwind CSS, Sanctum, Telescope, the TALL stack, TDD with Pest, and Agile 
+       </p>
+        <p>
+        💻 <strong>Tech Enthusiast:</strong> Skilled in Laravel, Livewire, Alpine.js, Tailwind CSS, Sanctum, Telescope, the TALL stack, TDD with Pest, and Agile 
+      methodologies.
+        </p>
+      <p>
+        🛠 <strong>Developer:</strong> Focused on building scalable and maintainable applications.
+      </p>
+      <p>
+        🚴‍♂️ <strong>Cyclist:</strong> Enthusiast of fat bikes, integrating my biking adventures with my coding projects.
+      </p>
+      <p>
+        🌱 <strong>Lifelong Learner:</strong> Continuously improving and exploring new technologies.
+      </p>
     </td>
     <td>
       <img src="https://avatars.githubusercontent.com/u/9040417?v=4" alt="Jordan's Profile Picture" width="200px">
