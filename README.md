@@ -80,7 +80,7 @@ Website
     <td align="center"><b>Methodologies</b></td>
   </tr>
   <tr>
-    <td>HTML, CSS, JavaScript, Alpine.js, Tailwind CSS</td>
+    <td>HTML, CSS, JavaScript, Alpine.js, Tailwind CSS, React, Vue</td>
     <td>PHP, Laravel, Livewire, Sanctum, Telescope</td>
     <td>Git, GitHub, Slack, Pest, Docker</td>
     <td>Agile, Test-Driven Development (TDD)</td>
