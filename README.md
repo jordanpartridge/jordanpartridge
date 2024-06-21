@@ -31,10 +31,10 @@ Featured Videos
 <table>
   <tr>
     <td align="center" style="border: 2px solid #f1f1f1; padding: 10px;">
-      <a href="https://www.youtube.com/watch?v=nc2f0edkr9U">
-        <img src="https://img.youtube.com/vi/nc2f0edkr9U/0.jpg" alt="Faster Laravel Herd Tutorial" width="100%" />
+      <a href="https://www.youtube.com/watch?v=nc2f0edkr9U&list=PL2he99VbfSBY8vnsht8kHN0yTrAg97wDs">
+        <img src="https://img.youtube.com/vi/nc2f0edkr9U/0.jpg" alt="Laravel Bootcamp Inertia and React" width="100%" />
       </a>
-      <p><b>Faster Laravel Herd Tutorial</b></p>
+      <p><b>Laravel Bootcamp using Inertia and React</b></p>
     </td>
     <td align="center" style="border: 2px solid #f1f1f1; padding: 10px;">
       <a href="https://www.youtube.com/watch?v=ANuydSN7W1I&t=25s">
