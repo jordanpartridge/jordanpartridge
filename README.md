@@ -9,10 +9,9 @@ Welcome to my GitHub profile! I'm a passionate Laravel developer and engineering
 <table>
   <tr>
     <td>
-      <p>🌟 <strong>Engineering Manager:</strong> Mentoring and leading a talented team of engineers.</p>
-      <p>💻 <strong>Tech Enthusiast:</strong> Skilled in Laravel, Livewire, Alpine.js, Tailwind CSS, Sanctum, Telescope, the TALL stack, TDD with Pest, and Agile 
-       </p>
-        <p>
+      <p>
+        🌟 <strong>Engineering Manager:</strong> Mentoring and leading a talented team of engineers.</p>
+      <p>
         💻 <strong>Tech Enthusiast:</strong> Skilled in Laravel, Livewire, Alpine.js, Tailwind CSS, Sanctum, Telescope, the TALL stack, TDD with Pest, and Agile 
       methodologies.
         </p>
@@ -69,8 +68,11 @@ Featured Videos
   </tr>
 </table>
 🌐 Connect with Me
-LinkedIn
-Website
+<ul>
+  <li><a href="https://www.linkedin.com/in/jordan-l-partridge">LinkedIn</a></li>
+  <li><a href="https://www.jordanpartridge.us">Website</a>
+</li>
+</ul>
 🛠 Tech Stack
 <table>
   <tr>
