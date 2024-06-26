@@ -1,5 +1,12 @@
 <img src="GitHub banner LinkedIn.png" alt="GitHub Banner" style="width:100%; border-radius: 10px;"/>
 <hr/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jordanpartridge&theme=juicyfresh&no-bg=true" alt="GitHub Trophy" style="width: 80%; border-radius: 10px;"/>
+</div>
+
+## 🎵 Now Playing
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=121725237&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=121725237&redirect=true)
+
 
 <h1 align="center">Hi, I'm Jordan! 👋</h1>
 <p align="center">
@@ -11,6 +18,9 @@
   <br/>
   <img src="https://komarev.com/ghpvc/?username=jordanpartridge&color=brightgreen" alt="Profile views"/>
 </div>
+
+
+
 
 ## 🚀 About Me
 
@@ -77,14 +87,16 @@
 </table>
 
 ## 🚴‍♂️ Fun Facts
-- I love combining my passion for biking with my coding projects.
-- I'm an advocate for clean, efficient designs in both my professional and personal projects.
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU)
+<ul>
+  <li>I love combining my passion for biking with my coding projects.</li>
+  <li>I'm an advocate for clean, efficient designs in both my professional and personal projects.</li>
+</ul>
 
 ## 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jordanpartridge&theme=tokyonight" alt="GitHub Streak Stats" style="width: 80%; border-radius: 10px; margin: 10px 0;"/>
   <img src="https://github-readme-stats.vercel.app/api?username=jordanpartridge&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 80%; border-radius: 10px; margin: 10px 0;"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=jordanpartridge&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" style="width: 80%; border-radius: 10px; margin: 10px 0;"/>
 </div>
 
 ## 📌 Pinned Repositories
