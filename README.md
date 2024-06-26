@@ -1,85 +1,72 @@
-<img src="GitHub banner LinkedIn.png" style="width:100%;"/>
-<hr />
-<img src="https://myreadme.vercel.app/api/embed/jordanpartridge?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" style="width:100%;"/>
-<img src="https://komarev.com/ghpvc/?username=jordanpartridge&color=brightgreen" alt="watching_count" />
-Hi, I'm Jordan! 👋
-Welcome to my GitHub profile! I'm a passionate Laravel developer and engineering manager with a love for biking, clean code, and innovative solutions. Here's a bit more about me:
+<img src="GitHub banner LinkedIn.png" alt="GitHub Banner" style="width:100%; border-radius: 10px;"/>
+<hr/>
 
-🚀 About Me
-<table>
-  <tr>
-    <td>
-      <p>
-        🌟 <strong>Engineering Manager:</strong> Mentoring and leading a talented team of engineers.</p>
-      <p>
-        💻 <strong>Tech Enthusiast:</strong> Skilled in Laravel, Livewire, Alpine.js, Tailwind CSS, Sanctum, Telescope, the TALL stack, TDD with Pest, and Agile 
-      methodologies.
-        </p>
-      <p>
-        🛠 <strong>Developer:</strong> Focused on building scalable and maintainable applications.
-      </p>
-      <p>
-        🚴‍♂️ <strong>Cyclist:</strong> Enthusiast of fat bikes, integrating my biking adventures with my coding projects.
-      </p>
-      <p>
-        🌱 <strong>Lifelong Learner:</strong> Continuously improving and exploring new technologies.
-      </p>
-    </td>
-    <td>
-      <img src="https://avatars.githubusercontent.com/u/9040417?v=4" alt="Jordan's Profile Picture" width="200px">
-    </td>
-  </tr>
-</table>
-📺 Check Out My YouTube Channel
-🎥 Jordan Codes Laravel
+<h1 align="center">Hi, I'm Jordan! 👋</h1>
+<p align="center">
+  Welcome to my GitHub profile! I'm a passionate Laravel developer and engineering manager with a love for biking, clean code, and innovative solutions. Here's a bit more about me:
+</p>
 
-I run a YouTube series detailing the integration of Slack into the development workflow with Laravel, and showcasing other interesting projects. My videos cover topics like setting up a Laravel app, reading Slack documentation, and using stacks for better notification management. Don't forget to subscribe for more content!
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/9040417?v=4" alt="Jordan's Profile Picture" width="200px" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 0 15px rgba(0,0,0,0.2);"/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=jordanpartridge&color=brightgreen" alt="Profile views"/>
+</div>
 
-Featured Videos
-<table>
+## 🚀 About Me
+
+<ul>
+  <li>🌟 <strong>Engineering Manager:</strong> Mentoring and leading a talented team of engineers.</li>
+  <li>💻 <strong>Tech Enthusiast:</strong> Skilled in Laravel, Livewire, Alpine.js, Tailwind CSS, Sanctum, Telescope, the TALL stack, TDD with Pest, and Agile methodologies.</li>
+  <li>🛠 <strong>Developer:</strong> Focused on building scalable and maintainable applications.</li>
+  <li>🚴‍♂️ <strong>Cyclist:</strong> Enthusiast of fat bikes, integrating my biking adventures with my coding projects.</li>
+  <li>🌱 <strong>Lifelong Learner:</strong> Continuously improving and exploring new technologies.</li>
+</ul>
+
+## 📺 Check Out My YouTube Channel
+**🎥 [Jordan Codes Laravel](https://www.youtube.com/channel/UCxyz)**
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=nc2f0edkr9U&list=PL2he99VbfSBY8vnsht8kHN0yTrAg97wDs">
+    <img src="https://img.youtube.com/vi/nc2f0edkr9U/0.jpg" alt="Laravel Bootcamp Inertia and React" style="width:45%; border-radius: 10px; margin: 5px;"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=ANuydSN7W1I&t=25s">
+    <img src="https://img.youtube.com/vi/ANuydSN7W1I/0.jpg" alt="Logging with Slack" style="width:45%; border-radius: 10px; margin: 5px;"/>
+  </a>
+</div>
+
+## 🔭 Current Projects
+<table align="center">
   <tr>
-    <td align="center" style="border: 2px solid #f1f1f1; padding: 10px;">
-      <a href="https://www.youtube.com/watch?v=nc2f0edkr9U&list=PL2he99VbfSBY8vnsht8kHN0yTrAg97wDs">
-        <img src="https://img.youtube.com/vi/nc2f0edkr9U/0.jpg" alt="Laravel Bootcamp Inertia and React" width="100%" />
-      </a>
-      <p><b>Laravel Bootcamp using Inertia and React</b></p>
-    </td>
-    <td align="center" style="border: 2px solid #f1f1f1; padding: 10px;">
-      <a href="https://www.youtube.com/watch?v=ANuydSN7W1I&t=25s">
-        <img src="https://img.youtube.com/vi/ANuydSN7W1I/0.jpg" alt="Logging with Slack" width="100%" />
-      </a>
-      <p><b>Logging with Slack</b></p>
-    </td>
-  </tr>
-</table>
-🔭 Current Projects
-<table>
-  <tr>
-    <td align="center">
+    <td align="center" style="padding: 10px;">
       <h3>💼 <a href="https://www.mycareeradvisor.com">My Career Advisor</a></h3>
       <p>A career advisement helping to end poverty with the power of work through the power of innovation.</p>
-      <img src="CleanShot 2024-06-19 at 15.46.57.gif" style="width:100%;"/>
+      <img src="CleanShot 2024-06-19 at 15.46.57.gif" alt="My Career Advisor" style="width:100%; border-radius: 10px;"/>
     </td>
-    <td align="center">
+    <td align="center" style="padding: 10px;">
       <h3>🌐 <a href="https://www.jordanpartridge.us">My Personal Website - Jordan Partridge.us</a></h3>
       <p>An ongoing project to sync my Strava bike rides with my personal website, showcasing interesting analysis and insights from each ride, all while supporting light and dark modes.</p>
-      <img src="CleanShot 2024-06-19 at 15.44.00.gif" style="width:100%;"/>
+      <img src="CleanShot 2024-06-19 at 15.44.00.gif" alt="Jordan Partridge.us" style="width:100%; border-radius: 10px;"/>
     </td>
   </tr>
 </table>
-🌐 Connect with Me
-<ul>
-  <li><a href="https://www.linkedin.com/in/jordan-l-partridge">LinkedIn</a></li>
-  <li><a href="https://www.jordanpartridge.us">Website</a>
-</li>
-</ul>
-🛠 Tech Stack
-<table>
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/jordan-l-partridge" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.jordanpartridge.us" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Website"/>
+  </a>
+</p>
+
+## 🛠 Tech Stack
+<table align="center">
   <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td align="center"><b>Backend</b></td>
-    <td align="center"><b>Tools</b></td>
-    <td align="center"><b>Methodologies</b></td>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Tools</th>
+    <th>Methodologies</th>
   </tr>
   <tr>
     <td>HTML, CSS, JavaScript, Alpine.js, Tailwind CSS, React, Vue</td>
@@ -88,25 +75,24 @@ Featured Videos
     <td>Agile, Test-Driven Development (TDD)</td>
   </tr>
 </table>
-🚴‍♂️ Fun Facts
-I love combining my passion for biking with my coding projects.
-I'm an advocate for clean, efficient designs in both my professional and personal projects.
-📈 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jordanpartridge&theme=tokyonight" alt="mystreak"/>
+## 🚴‍♂️ Fun Facts
+- I love combining my passion for biking with my coding projects.
+- I'm an advocate for clean, efficient designs in both my professional and personal projects.
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU)
 
-📌 Pinned Repositories
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/jordanpartridge/jordanpartridge.us">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jordanpartridge&repo=jordanpartridge.us&theme=radical" alt="Jordanpartridge.us">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/synapse-sentinel/worker-api">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=synapse-sentinel&repo=worker-api&theme=radical" alt="My Career Advisor">
-      </a>
-    </td>
-  </tr>
-</table>
+## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jordanpartridge&theme=tokyonight" alt="GitHub Streak Stats" style="width: 80%; border-radius: 10px; margin: 10px 0;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jordanpartridge&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 80%; border-radius: 10px; margin: 10px 0;"/>
+</div>
+
+## 📌 Pinned Repositories
+<div align="center">
+  <a href="https://github.com/jordanpartridge/jordanpartridge.us" style="margin: 0 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jordanpartridge&repo=jordanpartridge.us&theme=radical" alt="Jordanpartridge.us" style="border-radius: 10px;"/>
+  </a>
+  <a href="https://github.com/synapse-sentinel/worker-api" style="margin: 0 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=synapse-sentinel&repo=worker-api&theme=radical" alt="My Career Advisor" style="border-radius: 10px;"/>
+  </a>
+</div>
