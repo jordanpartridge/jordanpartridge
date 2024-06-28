@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://jordanpartridge.us" target="_blank">
-    <img src="https://img.shields.io/badge/Website-jordanpartridge.us-brightgreen?style=for-the-badge&logo=internet-explorer" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-jordanpartridge.us-brightgreen?style=for-the-badge&logo=arc" alt="Website" />
   </a>
   <a href="https://www.mycareeradvisor.com" target="_blank">
     <img src="https://img.shields.io/badge/Project-MyCareerAdvisor-blue?style=for-the-badge&logo=google-chrome" alt="Project" />
