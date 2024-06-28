@@ -1,80 +1,84 @@
-<h1 align="center">Jordan Partridge</h1>
-<p align="center">Software Engineer | Mesa, AZ | jordan.l.partridge@gmail.com</p>
+# Jordan Partridge
 
+<div align="center">
 
+![Location](https://img.shields.io/badge/Location-Mesa,%20AZ-00BFFF?style=flat-square&logo=google-maps&logoColor=white)
+[![Email](https://img.shields.io/badge/Email-jordan.l.partridge%40gmail.com-FF4500?style=flat-square&logo=gmail&logoColor=white)](mailto:jordan.l.partridge@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-(480)%20529--6684-4CAF50?style=flat-square&logo=phone&logoColor=white)](tel:4805296684)
+[![Website](https://img.shields.io/badge/Website-jordanpartridge.us-00CED1?style=flat-square&logo=firefox&logoColor=white)](https://jordanpartridge.us)
+[![Project](https://img.shields.io/badge/Project-MyCareerAdvisor-FF69B4?style=flat-square&logo=rocket&logoColor=white)](https://www.mycareeradvisor.com)
 
-<div align="center" style="background-color: #1a1a1a; padding: 20px; border-radius: 10px;">
-  <a href="https://jordanpartridge.us" target="_blank" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Website-jordanpartridge.us-00FFFF?style=plastic&logo=arc&logoColor=white" alt="Website" style="filter: drop-shadow(0 0 5px #00FFFF);" />
-  </a>
-  <a href="https://www.mycareeradvisor.com" target="_blank" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Project-MyCareerAdvisor-FF00FF?style=plastic&logo=rocket&logoColor=white" alt="Project" style="filter: drop-shadow(0 0 5px #FF00FF);" />
- 
-<a href="https://www.linkedin.com/in/jordan-l-partridge" target="_blank" style="text-decoration: none; margin: 0 10px;">
-  <img src="https://img.shields.io/badge/LinkedIn-Jordan%20Partridge-00BFFF?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" style="filter: drop-shadow(0 0 5px #00BFFF);" />
-</a>
 </div>
 
-## About Me
-Over 10 years of experience in developing high-performance web applications and 3 years leading cross-functional teams. Proficient in PHP, Laravel, and full stack development with a focus on scalable, secure, and efficient solutions. Experienced in Agile methodologies and AWS deployment. Passionate about mentoring junior engineers and driving technical excellence through code reviews and best practices. Proven track record in the advertising and technology sectors, enhancing user experience and operational efficiency.
+## 💼 Professional Summary
 
-## Work Experience
+Experienced Software Engineering Manager with over 10 years in developing high-performance web applications and 3 years leading cross-functional teams. Proficient in PHP, Laravel, and full stack development, focusing on scalable, secure, and efficient solutions. Skilled in Agile methodologies and AWS deployment. Passionate about mentoring junior engineers and driving technical excellence through code reviews and best practices.
+
+## 🛠 Skills
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-10%2B%20years-F05032?style=flat-square&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-10%2B%20years-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-10%2B%20years-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-10%2B%20years-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-Experienced-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-Experienced-009CDC?style=flat-square&logo=agile&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Experienced-4479A1?style=flat-square&logo=sql&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-5%20years-009688?style=flat-square&logo=api&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Experienced-41CD52?style=flat-square&logo=jenkins&logoColor=white)
+![React](https://img.shields.io/badge/React-Experienced-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-Experienced-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-Experienced-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+</div>
+
+## 👨‍💼 Work Experience
 
 ### Manager, Software Engineering
-**Goodwill of Central and Northern Arizona**, Mesa, AZ
-*January 2023 to Present*
+**Goodwill of Central and Northern Arizona** | Mesa, AZ | *January 2023 to Present*
 
-- Directed a software engineering team to develop and maintain a high-performance career services website using PHP and Laravel.
-- Partnered with product managers and designers to create seamless, user-friendly platforms.
-- Ensured effective communication between design and engineering teams, translating design visions into functional products.
-- Guided engineers in best practices for clean, reusable, and well-tested code.
-- Implemented Agile methodologies to streamline project delivery and boost team efficiency.
-- Built robust full stack solutions with PHP, Laravel, Vue, Tailwind CSS, Bootstrap, and AWS for deployment.
+- Led a software engineering team in developing a high-performance career services website using PHP and Laravel
+- Partnered with product managers and designers to create seamless, user-friendly platforms
+- Implemented Agile methodologies to streamline project delivery and boost team efficiency
+- Built robust full stack solutions with PHP, Laravel, Vue, Tailwind CSS, Bootstrap, and AWS
 
 ### Sr. Software Engineer
-**Goodwill of Central and Northern Arizona**, Phoenix, AZ
-*May 2022 to January 2023*
+**Goodwill of Central and Northern Arizona** | Phoenix, AZ | *May 2022 to January 2023*
 
-- Led the development of robust, scalable full stack solutions using PHP, Laravel, Vue, and modern front-end technologies.
-- Conducted comprehensive code reviews to ensure adherence to industry best practices, maintaining high standards of code quality and early issue mitigation.
-- Acted as Scrum Master for a remote team, optimizing workflows and improving project efficiency and outcomes.
-- Worked with designers, product managers, and stakeholders to deliver new features and improvements, significantly enhancing the user experience.
-- Mentored junior engineers, promoting a culture of continuous learning, professional growth, and improved team performance.
+- Led development of scalable full stack solutions using PHP, Laravel, Vue, and modern front-end technologies
+- Conducted comprehensive code reviews, maintaining high standards of code quality
+- Acted as Scrum Master for a remote team, optimizing workflows and improving project efficiency
+- Mentored junior engineers, promoting continuous learning and professional growth
 
-## Education
-**Arizona State University**, May 2013 to 2015
+### Software Engineer
+**Goodwill of Central and Northern Arizona** | Phoenix, AZ | *April 2019 to May 2022*
+
+- Formed a dedicated product team for MyCareerAdvisor.com, transitioning from external to in-house development
+- Initiated Agile adoption, establishing efficient project management processes
+- Developed robust full stack solutions using PHP, Laravel, Vue, Tailwind CSS, Bootstrap, and AWS
+
+## 🎖 Military Service
+
+**United States Army** | *January 2010 to January 2014*
+
+- Served in Information Coordination Central (ICC), maintaining communication with Patriot Firing Batteries
+- Coordinated tactical operations of a Patriot Battalion in a deployment zone
+- Provided technical support in the S6 section, coordinating with the Air Force
+
+### Commendations
+- Army Commendation Medal (January 2012)
+- Challenge Coin (Centcom CSM)
+
+## 🎓 Education
+
+**Arizona State University** | *May 2013 to 2015*
 - Completion of Junior Year in Software Engineering
 
-## Skills
-![Git](https://img.shields.io/badge/Git-10%2B%20years-success?style=flat-square&logo=git)
-![MySQL](https://img.shields.io/badge/MySQL-10%2B%20years-success?style=flat-square&logo=mysql)
-![PHP](https://img.shields.io/badge/PHP-10%2B%20years-success?style=flat-square&logo=php)
-![JavaScript](https://img.shields.io/badge/JavaScript-10%2B%20years-success?style=flat-square&logo=javascript)
-![Software Development](https://img.shields.io/badge/Software%20Development-Expertise-success?style=flat-square)
-![Computer science](https://img.shields.io/badge/Computer%20science-Expertise-success?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-Experienced-success?style=flat-square&logo=amazon-aws)
-![Agile](https://img.shields.io/badge/Agile-Experienced-success?style=flat-square&logo=jira)
-![SQL](https://img.shields.io/badge/SQL-Experienced-success?style=flat-square&logo=mysql)
-![APIs](https://img.shields.io/badge/APIs-5%20years-success?style=flat-square&logo=api)
-![CI/CD](https://img.shields.io/badge/CI/CD-Experienced-success?style=flat-square&logo=github-actions)
-![REST](https://img.shields.io/badge/REST-Experienced-success?style=flat-square&logo=rest)
-![Scrum](https://img.shields.io/badge/Scrum-Experienced-success?style=flat-square&logo=jira)
-![C++](https://img.shields.io/badge/C%2B%2B-Experienced-success?style=flat-square&logo=cplusplus)
-![HTML5](https://img.shields.io/badge/HTML5-Experienced-success?style=flat-square&logo=html5)
-![Python](https://img.shields.io/badge/Python-Experienced-success?style=flat-square&logo=python)
-![React](https://img.shields.io/badge/React-Experienced-success?style=flat-square&logo=react)
-![CSS](https://img.shields.io/badge/CSS-Experienced-success?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Experienced-success?style=flat-square&logo=bootstrap)
-![GitHub](https://img.shields.io/badge/GitHub-Experienced-success?style=flat-square&logo=github)
-![Jira](https://img.shields.io/badge/Jira-Experienced-success?style=flat-square&logo=jira)
-![Test Cases](https://img.shields.io/badge/Test%20Cases-Experienced-success?style=flat-square&logo=visual-studio-code)
+---
 
-## Military Service
-**United States Army**, January 2010 to January 2014
-- Served within the Information Coordination Central (ICC), assisting the Tactical Director in maintaining communication with Patriot Firing Batteries.
-- Coordinated tactical operations of a Patriot Battalion in a deployment zone.
-- Provided technical support to the battalion while serving in the S6 section, coordinating with the Air Force.
+<div align="center">
 
-**Commendations:**
-- Army Commendation Medal (January 2012): Recognized for exceptionally meritorious service as a Local Area Network Manager in support of Operation Enduring Freedom.
-- Challenge Coin (Centcom CSM): Awarded for exceptional service within the Battalion S6 Section (Service Desk Automation), reflecting leadership and dedication.
+*"Driving innovation through code, leadership, and continuous learning."*
+
+</div>
