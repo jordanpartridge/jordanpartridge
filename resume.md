@@ -1,16 +1,18 @@
 <h1 align="center">Jordan Partridge</h1>
 <p align="center">Software Engineer | Mesa, AZ | jordan.l.partridge@gmail.com</p>
 
-<div align="center">
-  <a href="https://jordanpartridge.us" target="_blank">
-    <img src="https://img.shields.io/badge/Website-jordanpartridge.us-brightgreen?style=for-the-badge&logo=arc" alt="Website" />
+
+
+<div align="center" style="background-color: #1a1a1a; padding: 20px; border-radius: 10px;">
+  <a href="https://jordanpartridge.us" target="_blank" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Website-jordanpartridge.us-00FFFF?style=plastic&logo=arc&logoColor=white" alt="Website" style="filter: drop-shadow(0 0 5px #00FFFF);" />
   </a>
-  <a href="https://www.mycareeradvisor.com" target="_blank">
-    <img src="https://img.shields.io/badge/Project-MyCareerAdvisor-blue?style=for-the-badge&logo=google-chrome" alt="Project" />
-  </a>
-  <a href="https://www.linkedin.com/in/jordanpartridge" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Jordan%20Partridge-informational?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
+  <a href="https://www.mycareeradvisor.com" target="_blank" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Project-MyCareerAdvisor-FF00FF?style=plastic&logo=rocket&logoColor=white" alt="Project" style="filter: drop-shadow(0 0 5px #FF00FF);" />
+ 
+<a href="https://www.linkedin.com/in/jordan-l-partridge" target="_blank" style="text-decoration: none; margin: 0 10px;">
+  <img src="https://img.shields.io/badge/LinkedIn-Jordan%20Partridge-00BFFF?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" style="filter: drop-shadow(0 0 5px #00BFFF);" />
+</a>
 </div>
 
 ## About Me
