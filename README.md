@@ -14,13 +14,6 @@
 
 <hr/>
 
-<div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=jordanpartridge&theme=juicyfresh&no-bg=true" alt="GitHub Trophy" style="width: 80%; border-radius: 10px;"/>
-</div>
-
-## 🎵 Now Playing
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=121725237&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=121725237&redirect=true)
-
 <table align="center" width="100%">
  <tr>
    <td align="left" width="50%">
