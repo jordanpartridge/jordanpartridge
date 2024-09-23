@@ -94,13 +94,3 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jordanpartridge&theme=tokyonight" alt="GitHub Streak Stats" style="width: 80%; border-radius: 10px; margin: 10px 0;" />
  <img src="https://github-readme-stats.vercel.app/api?username=jordanpartridge&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 80%; border-radius: 10px; margin: 10px 0;" />
 </div>
-
-## 📌 Pinned Repositories
-<div align="center">
- <a href="https://github.com/jordanpartridge/jordanpartridge.us" style="margin: 0 10px;">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jordanpartridge&repo=jordanpartridge.us&theme=radical" alt="Jordanpartridge.us" style="border-radius: 10px;" />
- </a>
- <a href="https://github.com/synapse-sentinel/worker-api" style="margin: 0 10px;">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=synapse-sentinel&repo=worker-api&theme=radical" alt="My Career Advisor" style="border-radius: 10px;" />
- </a>
-</div>
