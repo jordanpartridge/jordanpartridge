@@ -10,7 +10,7 @@
  <a href="https://www.jordanpartridge.us" style="margin: 0 10px;">
    <img src="https://img.shields.io/badge/Project-jordanpartridge.us-blue?style=flat-square&logo=google-chrome" alt="jordanpartridge.us" />
  </a>
-</div>
+<a href="https://wakatime.com/@af39b85c-9dd3-45aa-a975-04ca41a569a7"><img src="https://wakatime.com/badge/user/af39b85c-9dd3-45aa-a975-04ca41a569a7.svg" alt="Total time coded since Sep 21 2024" /></a></div>
 
 <hr/>
 
