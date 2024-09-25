@@ -41,17 +41,6 @@ Welcome to my GitHub profile! I'm passionate about clean code, innovative soluti
  <img src="https://wakatime.com/share/@af39b85c-9dd3-45aa-a975-04ca41a569a7/7f149117-b8e6-4e62-ba67-05a79ff6d367.png" alt="Coding Activity" width="80%" />
 </div>
 
-### 📊 Weekly Language Stats
-
-<!--START_SECTION:waka-->
-```text
-PHP         12 hrs 30 mins  ███████████░░░░░░░░  55.23%
-JavaScript  5 hrs 45 mins   ██████░░░░░░░░░░░░░  25.42%
-Blade       2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░   9.95%
-CSS         1 hr 30 mins    █░░░░░░░░░░░░░░░░░░   6.63%
-Other       45 mins         ░░░░░░░░░░░░░░░░░░░   2.77%
-```
-<!--END_SECTION:waka-->
 
 ### 🏆 Coding Streaks
 
@@ -87,14 +76,6 @@ Other       45 mins         ░░░░░░░░░░░░░░░░░�
 
 </details>
 
-## 📌 Pinned Repositories
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jordanpartridge&repo=my-career-advisor&theme=radical)](https://github.com/jordanpartridge/my-career-advisor)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jordanpartridge&repo=personal-website&theme=radical)](https://github.com/jordanpartridge/personal-website)
-
-</div>
 
 <details>
 <summary>🛠 Skills</summary>
