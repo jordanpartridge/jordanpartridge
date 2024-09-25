@@ -13,7 +13,6 @@
 <a href="https://wakatime.com/@af39b85c-9dd3-45aa-a975-04ca41a569a7"><img src="https://wakatime.com/badge/user/af39b85c-9dd3-45aa-a975-04ca41a569a7.svg" alt="Total time coded since Sep 21 2024" /></a></div>
 
 <hr/>
-
 <table align="center" width="100%">
  <tr>
    <td align="left" width="50%">
@@ -29,6 +28,7 @@
 </table>
 
 ## 🚀 About Me
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@af39b85c-9dd3-45aa-a975-04ca41a569a7/7f149117-b8e6-4e62-ba67-05a79ff6d367.png" /></a>
 
 <ul>
  <li>🌟 <strong>Engineering Manager:</strong> Mentoring and leading a talented team of engineers.</li>
