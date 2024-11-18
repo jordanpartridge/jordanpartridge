@@ -6,7 +6,7 @@
 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&height=100&lines=Engineering+Manager;Laravel+Developer;Cycling+Enthusiast;Tech+Innovation+Leader)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&height=100&lines=Engineering+Manager;Laravel+Developer;Cycling+Enthusiast;Tech+Innovation+Leader:Fatbike+Fattie)](https://git.io/typing-svg)
 
 [![Wakatime](https://wakatime.com/badge/user/af39b85c-9dd3-45aa-a975-04ca41a569a7.svg)](https://wakatime.com/@af39b85c-9dd3-45aa-a975-04ca41a569a7)
 [![GitHub followers](https://img.shields.io/github/followers/jordanpartridge?label=Follow&style=social)](https://github.com/jordanpartridge)
