@@ -24,7 +24,7 @@
 
 ```javascript
 const jordan = {
-    role: "Engineering Manager",
+    role: "Software Engineer",
     code: ["PHP", "JavaScript", "HTML", "CSS", "SQL"],
     technologies: {
         backend: ["Laravel", "Sanctum", "Telescope"],
