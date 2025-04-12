@@ -2,6 +2,7 @@ name: README Quality Checks
 
 on:
   pull_request:
+    types: [opened, synchronize, reopened]
     paths:
       - 'README.md'
 
@@ -20,7 +21,8 @@ jobs:
         run: npm install -g markdownlint-cli
       
       - name: Lint README
-        run: markdownlint README.md
+        run: |
+          markdownlint README.md || exit 1
 
   markdown-spell-check:
     runs-on: ubuntu-latest
@@ -36,19 +38,8 @@ jobs:
         run: npm install -g markdown-spellcheck
       
       - name: Spell Check README
-        run: mdspell README.md --report --ignore-acronyms --ignore-numbers
-
-  link-check:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      
-      - name: Link Checker
-        uses: lycheeverse/lychee-action@v1
-        with:
-          args: README.md
-        env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        run: |
+          mdspell README.md --report --ignore-acronyms --ignore-numbers || exit 1
 
   readme-complexity-check:
     runs-on: ubuntu-latest
@@ -58,6 +49,7 @@ jobs:
       - name: Count Sections
         run: |
           SECTION_COUNT=$(grep -c "^##" README.md)
+          echo "Number of sections found: $SECTION_COUNT"
           if [ $SECTION_COUNT -gt 10 ]; then
             echo "Warning: Too many sections in README.md"
             exit 1

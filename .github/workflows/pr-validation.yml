@@ -1,0 +1,32 @@
+name: PR Validation
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  basic-checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Check for Meaningful PR Description
+        env:
+          PR_BODY: ${{ github.event.pull_request.body }}
+        run: |
+          if [ -z "$PR_BODY" ] || [ "$(echo "$PR_BODY" | wc -w)" -lt 10 ]; then
+            echo "PR description is too short or empty"
+            exit 1
+          fi
+
+      - name: Validate Commit Messages
+        run: |
+          COMMIT_MESSAGES=$(git log origin/${{ github.base_ref }}..HEAD --pretty=format:"%s")
+          echo "Commit messages:"
+          echo "$COMMIT_MESSAGES"
+          
+          # Check if commit messages are meaningful
+          if echo "$COMMIT_MESSAGES" | grep -qE "^(wip|tmp|test|debug)"; then
+            echo "Warning: Commit messages contain WIP/TMP indicators"
+            exit 1
+          fi
