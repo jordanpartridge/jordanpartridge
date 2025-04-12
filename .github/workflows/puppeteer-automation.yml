@@ -1,12 +1,12 @@
-name: Puppeteer Automation
+name: Puppeteer Automation Check
 
 on:
-  schedule:
-    - cron: '0 12 * * *'  # Daily at noon
-  workflow_dispatch:
+  pull_request:
+    paths:
+      - '.github/workflows/puppeteer-automation.yml'
 
 jobs:
-  web-scraping:
+  test-puppeteer:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -21,23 +21,15 @@ jobs:
           npm init -y
           npm install puppeteer
       
-      - name: Run Puppeteer Automation
+      - name: Validate Puppeteer Installation
         run: |
           node -e "
           const puppeteer = require('puppeteer');
+          console.log('Puppeteer installed successfully');
           (async () => {
             const browser = await puppeteer.launch();
             const page = await browser.newPage();
-            
-            // Example: Screenshot of personal website
-            await page.goto('https://jordanpartridge.us');
-            await page.screenshot({ path: 'website-snapshot.png' });
-            
+            await page.goto('https://example.com');
+            console.log('Browser launched and navigated successfully');
             await browser.close();
           })();"
-      
-      - name: Upload Artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: website-snapshot
-          path: website-snapshot.png

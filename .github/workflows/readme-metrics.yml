@@ -1,17 +1,17 @@
 name: Update GitHub Profile README
 
 on:
-  schedule:
-    - cron: '0 0 * * 0'  # Weekly update
-  workflow_dispatch:
+  pull_request:
+    branches:
+      - main
 
 jobs:
-  update-readme:
+  preview-readme-metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       
-      - name: Generate GitHub Stats
+      - name: Generate GitHub Stats Preview
         uses: anuraghazra/github-readme-stats@master
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -19,17 +19,5 @@ jobs:
           show_icons: true
           theme: tokyonight
       
-      - name: Update Wakatime Stats
-        uses: athul/wakatime-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TOTAL: true
-          SHOW_TITLE: true
-      
-      - name: Commit Changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md
-          git commit -m "Update README metrics" || exit 0
-          git push
+      - name: Show Metrics Configuration
+        run: echo "Metrics would be updated in this workflow"
