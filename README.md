@@ -17,7 +17,6 @@
  <a href="https://www.linkedin.com/in/jordan-l-partridge"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="https://www.mycareeradvisor.com"><img src="https://img.shields.io/badge/My_Career_Advisor-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
  <a href="https://www.jordanpartridge.us"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
- <a href="https://www.youtube.com/channel/UCxyz"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </div>
 
 ## 🚀 Quick Overview
@@ -30,10 +29,11 @@ const jordan = {
         backend: ["Laravel", "Sanctum", "Telescope"],
         frontend: ["Livewire", "Alpine.js", "Tailwind CSS"],
         testing: ["Pest", "PHPUnit"],
-        methodology: ["Agile", "TDD", "SOLID"],
+        methodology: ["Clean Code", "TDD", "SOLID"],
         stack: "TALL"
     },
-    architecture: ["MVC", "Event-Driven", "Microservices"],
+    architecture: ["MVC", "Domain-Driven Design", "Event-Driven", "Microservices"],
+    codeQuality: ["Static Analysis", "Strict Typing", "Comprehensive Testing"],
     currentProjects: ["My Career Advisor", "Personal Website with Strava Integration"],
     funFact: "I've logged over 10,000 miles on my fat bike while solving coding problems mentally!"
 };
@@ -45,28 +45,28 @@ const jordan = {
 <tr>
 <td width="50%">
 
-### 🎯 Current Focus
-- Leading high-performance engineering teams
+### 👯 Current Focus
+- Building high-quality, maintainable code
 - Architecting scalable Laravel applications
-- Mentoring junior developers
+- Implementing advanced design patterns
 - Contributing to open-source projects
-- Building innovative career development tools
+- Refining API development standards
 
 </td>
 <td width="50%">
 
-### 🌱 Learning & Growth
+### 📱 Learning & Growth
 - Advanced System Architecture
-- Team Psychology & Leadership
+- Clean Code Practices
 - Performance Optimization
-- Cloud Infrastructure
-- AI/ML Integration
+- Domain-Driven Design
+- Testing Strategies & TDD
 
 </td>
 </tr>
 </table>
 
-## 📊 Technical Proficiency
+## 🔊 Technical Proficiency
 
 <div align="center">
 
@@ -80,7 +80,7 @@ const jordan = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📈 GitHub Statistics
+### 📊 GitHub Statistics
 
 <table>
 <tr>
@@ -101,9 +101,31 @@ const jordan = {
 
 </div>
 
-## 🎯 Featured Projects
+## 📦 Featured Packages & Projects
 
 <table>
+<tr>
+<td width="50%">
+<h3 align="center">GitHub Client</h3>
+<div align="center">
+<a href="https://github.com/jordanpartridge/github-client" target="_blank"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Project Link"></a>
+<a href="https://packagist.org/packages/jordanpartridge/github-client" target="_blank"><img src="https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=composer&logoColor=white" alt="Packagist Link"></a>
+
+<p><strong>Laravel • Saloon • GitHub API</strong></p>
+<p>A powerful, Laravel-first GitHub API client built on Saloon that makes integrating with GitHub's API simple and intuitive.</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Packagist Client</h3>
+<div align="center">
+<a href="https://github.com/jordanpartridge/packagist-client" target="_blank"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Project Link"></a>
+<a href="https://packagist.org/packages/jordanpartridge/packagist-client" target="_blank"><img src="https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=composer&logoColor=white" alt="Packagist Link"></a>
+
+<p><strong>Laravel • Composer • Package API</strong></p>
+<p>Laravel client for interacting with the Packagist API, providing easy access to package information and statistics.</p>
+</div>
+</td>
+</tr>
 <tr>
 <td width="50%">
 <h3 align="center">My Career Advisor</h3>
@@ -127,30 +149,7 @@ const jordan = {
 </tr>
 </table>
 
-## 📺 Latest YouTube Content
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Laravel Bootcamp: Inertia & React</h3>
-<div align="center">
-
-[![Laravel Bootcamp](https://img.shields.io/badge/Watch_Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=nc2f0edkr9U)
-
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Advanced Logging with Slack</h3>
-<div align="center">
-
-[![Logging with Slack](https://img.shields.io/badge/Watch_Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ANuydSN7W1I)
-
-</div>
-</td>
-</tr>
-</table>
-
-## 🌟 Achievement Showcase
+## 🏆 Achievement Showcase
 
 <div align="center">
 
@@ -168,7 +167,6 @@ const jordan = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jordan-l-partridge)
 [![Website](https://img.shields.io/badge/Website-Visit-FF7139?style=for-the-badge&logo=firefox-browser)](https://www.jordanpartridge.us)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCxyz)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/jordanpartridge)
 
 </div>
