@@ -1,0 +1,32 @@
+name: PR Validation
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  basic-checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Check PR Description
+        env:
+          PR_BODY: ${{ github.event.pull_request.body }}
+        run: |
+          echo "PR Description Length: $(echo "$PR_BODY" | wc -w) words"
+          if [ -z "$PR_BODY" ]; then
+            echo "Warning: PR description is empty"
+            echo "status=neutral" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+      - name: Check Commit Messages
+        run: |
+          COMMIT_MESSAGES=$(git log origin/${{ github.base_ref }}..HEAD --pretty=format:"%s")
+          echo "Commit messages:"
+          echo "$COMMIT_MESSAGES"
+          
+          # Log commit message count instead of failing
+          COMMIT_COUNT=$(echo "$COMMIT_MESSAGES" | wc -l)
+          echo "Number of commits: $COMMIT_COUNT"

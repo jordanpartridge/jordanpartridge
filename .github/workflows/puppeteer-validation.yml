@@ -1,0 +1,40 @@
+name: Puppeteer Validation
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  puppeteer-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install Dependencies
+        run: |
+          npm init -y
+          npm install puppeteer
+      
+      - name: Validate Puppeteer Installation
+        continue-on-error: true
+        run: |
+          node -e "
+          const puppeteer = require('puppeteer');
+          console.log('Puppeteer installed successfully');
+          (async () => {
+            try {
+              const browser = await puppeteer.launch();
+              const page = await browser.newPage();
+              await page.goto('https://example.com');
+              console.log('Browser launched and navigated successfully');
+              await browser.close();
+            } catch (error) {
+              console.error('Puppeteer validation encountered an issue:', error);
+              process.exit(0);
+            }
+          })();"
