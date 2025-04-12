@@ -1,0 +1,87 @@
+name: Website Screenshot Capture
+
+on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+
+jobs:
+  capture-website-screenshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install Dependencies
+        run: |
+          npm init -y
+          npm install puppeteer
+      
+      - name: Capture Website Screenshot
+        run: |
+          node -e "
+          const puppeteer = require('puppeteer');
+          const fs = require('fs');
+          const path = require('path');
+
+          (async () => {
+            const browser = await puppeteer.launch();
+            const page = await browser.newPage();
+            
+            // Set viewport to a good website preview size
+            await page.setViewport({ width: 1280, height: 720 });
+            
+            try {
+              await page.goto('https://jordanpartridge.us', { 
+                waitUntil: 'networkidle0',
+                timeout: 30000
+              });
+              
+              // Take screenshot
+              const screenshotPath = path.join(process.cwd(), 'website-preview.png');
+              await page.screenshot({ 
+                path: screenshotPath,
+                fullPage: false
+              });
+              
+              console.log('Screenshot captured successfully');
+            } catch (error) {
+              console.error('Failed to capture screenshot:', error);
+              process.exit(1);
+            }
+            
+            await browser.close();
+          })();
+          "
+      
+      - name: Update README with Screenshot
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Check if screenshot exists
+          if [ -f website-preview.png ]; then
+            # Base64 encode the screenshot
+            SCREENSHOT_BASE64=$(base64 -w 0 website-preview.png)
+            
+            # Update README with base64 encoded image
+            sed -i '/<!-- WEBSITE_PREVIEW_START -->/,/<!-- WEBSITE_PREVIEW_END -->/c\<!-- WEBSITE_PREVIEW_START -->\n<img src="data:image/png;base64,'"$SCREENSHOT_BASE64"'" alt="Website Preview" width="600"/>\n<!-- WEBSITE_PREVIEW_END -->' README.md
+            
+            # Configure git
+            git config user.name 'GitHub Actions Bot'
+            git config user.email '<>'
+            
+            # Stage changes
+            git add README.md
+            
+            # Commit changes (if there are any)
+            git diff --staged --quiet || git commit -m "Update website preview screenshot"
+            
+            # Push changes
+            git push
+          fi
