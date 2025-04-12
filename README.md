@@ -64,6 +64,27 @@ const jordan = {
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+<h3 align="center">User Make</h3>
+<div align="center">
+<a href="https://github.com/jordanpartridge/user-make" target="_blank"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Project Link"></a>
+<a href="https://packagist.org/packages/jordanpartridge/user-make" target="_blank"><img src="https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=composer&logoColor=white" alt="Packagist Link"></a>
+
+<p><strong>Laravel • Artisan • User Management</strong></p>
+<p>A Laravel package that provides convenient artisan commands for user management and creation.</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Automation & GitHub Actions</h3>
+<div align="center">
+<a href="https://github.com/jordanpartridge?tab=repositories&q=automation" target="_blank"><img src="https://img.shields.io/badge/View_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects Link"></a>
+
+<p><strong>Puppeteer • GitHub Actions • CI/CD</strong></p>
+<p>Various automation projects using Puppeteer for browser automation and GitHub Actions for CI/CD workflows.</p>
+</div>
+</td>
+</tr>
 </table>
 
 ## 🔊 Technical Proficiency
