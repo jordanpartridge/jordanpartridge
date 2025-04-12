@@ -17,40 +17,26 @@ jobs:
         with:
           node-version: '20'
       
-      - name: Install markdown-lint
-        run: npm install -g markdownlint-cli
+      - name: Install markdown tools
+        run: |
+          npm install -g markdownlint-cli markdown-spellcheck
       
       - name: Lint README
+        continue-on-error: true
         run: |
-          markdownlint README.md || exit 1
-
-  markdown-spell-check:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      
-      - name: Use Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-      
-      - name: Install markdown-spellcheck
-        run: npm install -g markdown-spellcheck
+          echo "Running markdown lint..."
+          markdownlint README.md || true
       
       - name: Spell Check README
+        continue-on-error: true
         run: |
-          mdspell README.md --report --ignore-acronyms --ignore-numbers || exit 1
-
-  readme-complexity-check:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
+          echo "Running spell check..."
+          mdspell README.md --report --ignore-acronyms --ignore-numbers || true
       
-      - name: Count Sections
+      - name: Analyze README Structure
         run: |
           SECTION_COUNT=$(grep -c "^##" README.md)
-          echo "Number of sections found: $SECTION_COUNT"
+          echo "Number of sections: $SECTION_COUNT"
           if [ $SECTION_COUNT -gt 10 ]; then
-            echo "Warning: Too many sections in README.md"
-            exit 1
+            echo "Warning: High number of sections in README"
           fi

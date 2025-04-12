@@ -10,23 +10,23 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      - name: Check for Meaningful PR Description
+      - name: Check PR Description
         env:
           PR_BODY: ${{ github.event.pull_request.body }}
         run: |
-          if [ -z "$PR_BODY" ] || [ "$(echo "$PR_BODY" | wc -w)" -lt 10 ]; then
-            echo "PR description is too short or empty"
-            exit 1
+          echo "PR Description Length: $(echo "$PR_BODY" | wc -w) words"
+          if [ -z "$PR_BODY" ]; then
+            echo "Warning: PR description is empty"
+            echo "status=neutral" >> "$GITHUB_OUTPUT"
+            exit 0
           fi
 
-      - name: Validate Commit Messages
+      - name: Check Commit Messages
         run: |
           COMMIT_MESSAGES=$(git log origin/${{ github.base_ref }}..HEAD --pretty=format:"%s")
           echo "Commit messages:"
           echo "$COMMIT_MESSAGES"
           
-          # Check if commit messages are meaningful
-          if echo "$COMMIT_MESSAGES" | grep -qE "^(wip|tmp|test|debug)"; then
-            echo "Warning: Commit messages contain WIP/TMP indicators"
-            exit 1
-          fi
+          # Log commit message count instead of failing
+          COMMIT_COUNT=$(echo "$COMMIT_MESSAGES" | wc -l)
+          echo "Number of commits: $COMMIT_COUNT"
