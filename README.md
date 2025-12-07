@@ -2,13 +2,13 @@
 
 <div align="center">
 
-```text
- ██████╗ ██████╗ ███╗   ██╗██████╗ ██╗   ██╗██╗████████╗
-██╔════╝██╔═══██╗████╗  ██║██╔══██╗██║   ██║██║╚══██╔══╝
-██║     ██║   ██║██╔██╗ ██║██║  ██║██║   ██║██║   ██║
-██║     ██║   ██║██║╚██╗██║██║  ██║██║   ██║██║   ██║
-╚██████╗╚██████╔╝██║ ╚████║██████╔╝╚██████╔╝██║   ██║
- ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝  ╚═════╝ ╚═╝   ╚═╝
+```
+  ██████╗ ██████╗ ███╗   ██╗██████╗ ██╗   ██╗██╗████████╗
+ ██╔════╝██╔═══██╗████╗  ██║██╔══██╗██║   ██║██║╚══██╔══╝
+ ██║     ██║   ██║██╔██╗ ██║██║  ██║██║   ██║██║   ██║
+ ██║     ██║   ██║██║╚██╗██║██║  ██║██║   ██║██║   ██║
+ ╚██████╗╚██████╔╝██║ ╚████║██████╔╝╚██████╔╝██║   ██║
+  ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝  ╚═════╝ ╚═╝   ╚═╝
 ```
 
 **Developer Liberation Platform** · Laravel Advocate · AI Workflow Pioneer
@@ -155,27 +155,26 @@ conduit knowledge search "auth patterns"
 
 ## The Ecosystem
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                    CONDUIT PLATFORM                         │
-│              "Developer Liberation Platform"                │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│   ┌─────────────┐  ┌─────────────┐  ┌─────────────┐        │
-│   │   github-   │  │   strava-   │  │   spotify-  │        │
-│   │   client    │  │   client    │  │   client    │        │
-│   └──────┬──────┘  └──────┬──────┘  └──────┬──────┘        │
-│          │                │                │                │
-│          └────────────────┼────────────────┘                │
-│                           │                                 │
-│                    ┌──────▼──────┐                          │
-│                    │   conduit   │                          │
-│                    │  knowledge  │                          │
-│                    └─────────────┘                          │
-│                                                             │
-│   Context: Code commits + Fitness + Music = Wellbeing AI   │
-└─────────────────────────────────────────────────────────────┘
+```mermaid
+flowchart TB
+    subgraph platform["CONDUIT PLATFORM"]
+        direction TB
+        subgraph clients["API Clients"]
+            gh[github-client]
+            st[strava-client]
+            sp[spotify-client]
+        end
+        clients --> knowledge[conduit-knowledge]
+        knowledge --> conduit[Conduit CLI]
+    end
+
+    style platform fill:#1a1b27,stroke:#7aa2f7,color:#c0caf5
+    style clients fill:#24283b,stroke:#7aa2f7
+    style knowledge fill:#ff9e64,stroke:#ff9e64,color:#1a1b27
+    style conduit fill:#9ece6a,stroke:#9ece6a,color:#1a1b27
 ```
+
+*Code commits + Fitness + Music = Developer Wellbeing Intelligence*
 
 ---
 
