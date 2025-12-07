@@ -194,18 +194,6 @@ conduit knowledge search "auth patterns"
 
 ---
 
-## Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordanpartridge&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/jordanpartridge)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanpartridge&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/jordanpartridge)
-
-</div>
-
----
-
 ## Currently
 
 - Building **Conduit** - the Developer Liberation Platform
