@@ -1,180 +1,212 @@
 # Jordan Partridge
 
 <div align="center">
- <img src="GitHub banner LinkedIn.png" alt="GitHub Banner" style="width:100%; border-radius: 10px;"/>
-</div>
 
-<div align="center">
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Laravel+Developer;Cycling+Enthusiast;Tech+Innovation+Leader:Fatbike+Fattie)](https://git.io/typing-svg)
-
-[![Wakatime](https://wakatime.com/badge/user/af39b85c-9dd3-45aa-a975-04ca41a569a7.svg)](https://wakatime.com/@af39b85c-9dd3-45aa-a975-04ca41a569a7)
-[![GitHub followers](https://img.shields.io/github/followers/jordanpartridge?label=Follow&style=social)](https://github.com/jordanpartridge)
-
-</div>
-
-<div align="center">
- <a href="https://www.linkedin.com/in/jordan-l-partridge"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="https://www.mycareeradvisor.com"><img src="https://img.shields.io/badge/My_Career_Advisor-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
- <a href="https://www.jordanpartridge.us"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
- <a href="https://www.youtube.com/channel/UCxyz"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-</div>
-
-## 🚀 Quick Overview
-
-```javascript
-const jordan = {
-    role: "Software Engineer",
-    code: ["PHP", "JavaScript", "HTML", "CSS", "SQL"],
-    technologies: {
-        backend: ["Laravel", "Sanctum", "Telescope"],
-        frontend: ["Livewire", "Alpine.js", "Tailwind CSS"],
-        testing: ["Pest", "PHPUnit"],
-        methodology: ["Agile", "TDD", "SOLID"],
-        stack: "TALL"
-    },
-    architecture: ["MVC", "Event-Driven", "Microservices"],
-    currentProjects: ["My Career Advisor", "Personal Website with Strava Integration"],
-    funFact: "I've logged over 10,000 miles on my fat bike while solving coding problems mentally!"
-};
+```text
+ ██████╗ ██████╗ ███╗   ██╗██████╗ ██╗   ██╗██╗████████╗
+██╔════╝██╔═══██╗████╗  ██║██╔══██╗██║   ██║██║╚══██╔══╝
+██║     ██║   ██║██╔██╗ ██║██║  ██║██║   ██║██║   ██║
+██║     ██║   ██║██║╚██╗██║██║  ██║██║   ██║██║   ██║
+╚██████╗╚██████╔╝██║ ╚████║██████╔╝╚██████╔╝██║   ██║
+ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝  ╚═════╝ ╚═╝   ╚═╝
 ```
 
-## 💼 Professional Journey
+**Developer Liberation Platform** · Laravel Advocate · AI Workflow Pioneer
 
-<table>
-<tr>
-<td width="50%">
+*Building tools that understand your code, respect your time, and amplify your impact*
 
-### 🎯 Current Focus
-- Leading high-performance engineering teams
-- Architecting scalable Laravel applications
-- Mentoring junior developers
-- Contributing to open-source projects
-- Building innovative career development tools
-
-</td>
-<td width="50%">
-
-### 🌱 Learning & Growth
-- Advanced System Architecture
-- Team Psychology & Leadership
-- Performance Optimization
-- Cloud Infrastructure
-- AI/ML Integration
-
-</td>
-</tr>
-</table>
-
-## 📊 Technical Proficiency
-
-<div align="center">
-
-### 💻 Technology Stack
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 📈 GitHub Statistics
-
-<table>
-<tr>
-<td>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordanpartridge&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/jordanpartridge)
-
-</td>
-<td>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanpartridge&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/jordanpartridge)
-
-</td>
-</tr>
-</table>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jordanpartridge&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-## 🎯 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">My Career Advisor</h3>
-<div align="center">
-<a href="https://www.mycareeradvisor.com" target="_blank"><img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Project Link"></a>
-
-<p><strong>Laravel • Vue • Bootstrap • Webhooks</strong></p>
-<p>An innovative career development platform providing no cost career services to individuals across the United States.</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Personal Website & Strava Integration</h3>
-<div align="center">
-<a href="https://www.jordanpartridge.us" target="_blank"><img src="https://img.shields.io/badge/View_Project-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Project Link"></a>
-<a href="https://github.com/jordanpartridge/jordanpartridge.us" target="_blank"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository Link"></a>
-
-<p><strong>TALL Stack • Strava API • Data Visualization</strong></p>
-<p>A personal portfolio showcasing cycling adventures through Strava integration, featuring advanced data analysis and beautiful visualizations.</p>
-</div>
-</td>
-</tr>
-</table>
-
-## 📺 Latest YouTube Content
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Laravel Bootcamp: Inertia & React</h3>
-<div align="center">
-
-[![Laravel Bootcamp](https://img.shields.io/badge/Watch_Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=nc2f0edkr9U)
-
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Advanced Logging with Slack</h3>
-<div align="center">
-
-[![Logging with Slack](https://img.shields.io/badge/Watch_Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ANuydSN7W1I)
-
-</div>
-</td>
-</tr>
-</table>
-
-## 🌟 Achievement Showcase
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=jordanpartridge&theme=nord&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 📊 Weekly Coding Breakdown
-
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=af39b85c-9dd3-45aa-a975-04ca41a569a7&layout=compact&theme=tokyonight&hide_border=true)](https://wakatime.com/@af39b85c-9dd3-45aa-a975-04ca41a569a7)
-
-</div>
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jordan-l-partridge)
-[![Website](https://img.shields.io/badge/Website-Visit-FF7139?style=for-the-badge&logo=firefox-browser)](https://www.jordanpartridge.us)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCxyz)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/jordanpartridge)
+[![Website](https://img.shields.io/badge/jordanpartridge.us-FF7139?style=flat-square&logo=firefox-browser&logoColor=white)](https://jordanpartridge.us)
+[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jordan-l-partridge)
 
 </div>
 
 ---
 
+## What I'm Building
+
+> **"Use AI to fade out the background noise"**
+
+I believe developers deserve tools that work *with* them, not against them.
+My work centers on three pillars:
+
+**1. Developer Liberation** - Break free from corporate toolchain tyranny
+**2. AI-Powered Workflows** - Let machines handle the mundane
+**3. Developer Wellbeing** - Because it's not just about shipping code
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Conduit](https://github.com/conduit-ui/conduit)
+
+**Developer Liberation Platform**
+
+Laravel Zero CLI with microkernel component architecture.
+Your personal developer API gateway.
+
+```bash
+conduit ask "where is auth handled?"
+conduit discover  # find community components
+```
+
+*The CLI that knows it's 2am and actually cares*
+
+![PHP](https://img.shields.io/badge/PHP_8.3-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel Zero](https://img.shields.io/badge/Laravel_Zero-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [github-client](https://github.com/jordanpartridge/github-client)
+
+**Laravel GitHub API Wrapper** ⭐ 4
+
+Saloon-powered GitHub integration that plays nice with Laravel.
+
+```php
+GitHub::repo('owner/repo')->issues()->list();
+```
+
+*Because GitHub integrations should feel like first-class Laravel citizens*
+
+![Stars](https://img.shields.io/github/stars/jordanpartridge/github-client?style=flat-square)
+![PHP](https://img.shields.io/badge/Saloon-777BB4?style=flat-square&logo=php&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [chat](https://github.com/jordanpartridge/chat)
+
+**Multi-Model AI Chat**
+
+Compare AI models side-by-side. Laravel 12 + Vue 3 + Inertia.js.
+
+*Switch between Claude, GPT-4, and more in a modern SPA*
+
+![Laravel 12](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [claude-code-agents](https://github.com/jordanpartridge/claude-code-agents)
+
+**AI Workflow Automation**
+
+Specialized Claude Code agents for GitHub operations.
+
+```text
+"Commit my work and create a PR"
+→ semantic commits → PR with description → done
+```
+
+*Turn scattered repos into orchestrated workflows*
+
+![Claude](https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [strava-client](https://github.com/jordanpartridge/strava-client)
+
+**Laravel Strava Integration**
+
+Production-ready OAuth, webhooks, intelligent retry.
+
+**76 tests · 198 assertions · PHPStan Level 5**
+
+*Your fitness API integration shouldn't be harder than your workout*
+
+![Tests](https://img.shields.io/badge/Tests-76_passing-brightgreen?style=flat-square)
+![Coverage](https://img.shields.io/badge/Coverage-Tracked-blue?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### [conduit-knowledge](https://github.com/jordanpartridge/conduit-knowledge)
+
+**AI-Powered Knowledge Base**
+
+Git-aware knowledge capture with semantic search.
+
+```bash
+conduit knowledge add "TIL: Laravel 12 has..."
+conduit knowledge search "auth patterns"
+```
+
+*Your codebase's memory: never lose what you learned*
+
+![PHP](https://img.shields.io/badge/Laravel_Zero-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## The Ecosystem
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                    CONDUIT PLATFORM                         │
+│              "Developer Liberation Platform"                │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   ┌─────────────┐  ┌─────────────┐  ┌─────────────┐        │
+│   │   github-   │  │   strava-   │  │   spotify-  │        │
+│   │   client    │  │   client    │  │   client    │        │
+│   └──────┬──────┘  └──────┬──────┘  └──────┬──────┘        │
+│          │                │                │                │
+│          └────────────────┼────────────────┘                │
+│                           │                                 │
+│                    ┌──────▼──────┐                          │
+│                    │   conduit   │                          │
+│                    │  knowledge  │                          │
+│                    └─────────────┘                          │
+│                                                             │
+│   Context: Code commits + Fitness + Music = Wellbeing AI   │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## Philosophy
+
+**On Developer Tools:**
+> Every service should feel like Laravel. If it doesn't, I'll build a client for it.
+
+**On AI:**
+> AI should amplify developers, not replace them.
+> Let machines handle the mundane so you can focus on what matters.
+
+**On Wellbeing:**
+> If you're coding at 2am with lo-fi playing, maybe a gentle nudge
+> is more valuable than another productivity metric.
+
+---
+
+## Currently
+
+- Building **Conduit** - the Developer Liberation Platform
+- Exploring **AI-powered codebase understanding** with conduit-knowledge
+- Managing **50+ repos** with claude-code-agents (yes, AI managing AI)
+- Cycling and tracking it with my own Strava integration
+
+---
+
 <div align="center">
-<img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-ff69b4" alt="Made with love and coffee">
+
+*Building tools for developers who care about craft, sustainability, and actually enjoying their work.*
+
+**[jordanpartridge.us](https://jordanpartridge.us)** · Fat bike fan · Perpetual optimist
+
 </div>
