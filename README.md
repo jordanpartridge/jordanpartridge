@@ -2,7 +2,7 @@
 
 <div align="center">
 
-```
+```text
  ██████╗ ██████╗ ███╗   ██╗██████╗ ██╗   ██╗██╗████████╗
 ██╔════╝██╔═══██╗████╗  ██║██╔══██╗██║   ██║██║╚══██╔══╝
 ██║     ██║   ██║██╔██╗ ██║██║  ██║██║   ██║██║   ██║
@@ -26,7 +26,8 @@
 
 > **"Use AI to fade out the background noise"**
 
-I believe developers deserve tools that work *with* them, not against them. My work centers on three pillars:
+I believe developers deserve tools that work *with* them, not against them.
+My work centers on three pillars:
 
 **1. Developer Liberation** - Break free from corporate toolchain tyranny
 **2. AI-Powered Workflows** - Let machines handle the mundane
@@ -43,7 +44,8 @@ I believe developers deserve tools that work *with* them, not against them. My w
 ### [Conduit](https://github.com/conduit-ui/conduit)
 **Developer Liberation Platform**
 
-Laravel Zero CLI with microkernel component architecture. Your personal developer API gateway.
+Laravel Zero CLI with microkernel component architecture.
+Your personal developer API gateway.
 
 ```bash
 conduit ask "where is auth handled?"
@@ -96,7 +98,7 @@ Compare AI models side-by-side. Laravel 12 + Vue 3 + Inertia.js.
 
 Specialized Claude Code agents for GitHub operations.
 
-```
+```text
 "Commit my work and create a PR"
 → semantic commits → PR with description → done
 ```
@@ -147,7 +149,7 @@ conduit knowledge search "auth patterns"
 
 ## The Ecosystem
 
-```
+```text
 ┌─────────────────────────────────────────────────────────────┐
 │                    CONDUIT PLATFORM                         │
 │              "Developer Liberation Platform"                │
@@ -177,10 +179,12 @@ conduit knowledge search "auth patterns"
 > Every service should feel like Laravel. If it doesn't, I'll build a client for it.
 
 **On AI:**
-> AI should amplify developers, not replace them. Let machines handle the mundane so you can focus on what matters.
+> AI should amplify developers, not replace them.
+> Let machines handle the mundane so you can focus on what matters.
 
 **On Wellbeing:**
-> If you're coding at 2am with lo-fi playing, maybe a gentle nudge is more valuable than another productivity metric.
+> If you're coding at 2am with lo-fi playing, maybe a gentle nudge
+> is more valuable than another productivity metric.
 
 ---
 

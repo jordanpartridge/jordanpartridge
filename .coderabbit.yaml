@@ -1,0 +1,22 @@
+language: en
+reviews:
+  profile: assertive
+  request_changes_workflow: false
+  path_instructions:
+    - path: "README.md"
+      instructions: |
+        This is a GitHub profile README. HTML elements (div, table) are required
+        for centering and 2-column layouts - this is standard practice.
+        Long lines for badge URLs are expected and unavoidable.
+
+        Focus review on:
+        - Broken or outdated links
+        - Typos in content
+        - Missing alt text on images
+        - Factual accuracy of project descriptions
+
+        Do NOT flag as issues:
+        - MD033 (inline HTML) - Required for GitHub profile layout
+        - MD013 (line length) - Badge URLs exceed limits by design
+        - MD036 (emphasis as heading) - Taglines use emphasis appropriately
+        - HTML table elements - Required for 2-column project grid
