@@ -42,6 +42,7 @@ My work centers on three pillars:
 <td width="50%" valign="top">
 
 ### [Conduit](https://github.com/conduit-ui/conduit)
+
 **Developer Liberation Platform**
 
 Laravel Zero CLI with microkernel component architecture.
@@ -61,6 +62,7 @@ conduit discover  # find community components
 <td width="50%" valign="top">
 
 ### [github-client](https://github.com/jordanpartridge/github-client)
+
 **Laravel GitHub API Wrapper** ⭐ 4
 
 Saloon-powered GitHub integration that plays nice with Laravel.
@@ -80,6 +82,7 @@ GitHub::repo('owner/repo')->issues()->list();
 <td width="50%" valign="top">
 
 ### [chat](https://github.com/jordanpartridge/chat)
+
 **Multi-Model AI Chat**
 
 Compare AI models side-by-side. Laravel 12 + Vue 3 + Inertia.js.
@@ -94,6 +97,7 @@ Compare AI models side-by-side. Laravel 12 + Vue 3 + Inertia.js.
 <td width="50%" valign="top">
 
 ### [claude-code-agents](https://github.com/jordanpartridge/claude-code-agents)
+
 **AI Workflow Automation**
 
 Specialized Claude Code agents for GitHub operations.
@@ -113,6 +117,7 @@ Specialized Claude Code agents for GitHub operations.
 <td width="50%" valign="top">
 
 ### [strava-client](https://github.com/jordanpartridge/strava-client)
+
 **Laravel Strava Integration**
 
 Production-ready OAuth, webhooks, intelligent retry.
@@ -128,6 +133,7 @@ Production-ready OAuth, webhooks, intelligent retry.
 <td width="50%" valign="top">
 
 ### [conduit-knowledge](https://github.com/jordanpartridge/conduit-knowledge)
+
 **AI-Powered Knowledge Base**
 
 Git-aware knowledge capture with semantic search.
