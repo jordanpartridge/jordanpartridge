@@ -1,16 +1,16 @@
 # Jordan Partridge
 
 ```
-jordan@patridge.rocks:~$ whoami
+jordan@partridge.rocks:~$ whoami
 Jordan Partridge — builder. Laravel for the spine. Agents for the leverage.
 Self-hosted by choice. Terminal-first by conviction.
 
-jordan@patridge.rocks:~$ uptime
+jordan@partridge.rocks:~$ uptime
 2026 — devs came home to the terminal. About time.
 ```
 
 [![Site](https://img.shields.io/badge/jordanpartridge.us-1a1b27?style=flat-square)](https://jordanpartridge.us)
-[![Email](https://img.shields.io/badge/jordan%40patridge.rocks-1a1b27?style=flat-square&logo=maildotru&logoColor=white)](mailto:jordan@patridge.rocks)
+[![Email](https://img.shields.io/badge/jordan%40partridge.rocks-1a1b27?style=flat-square&logo=maildotru&logoColor=white)](mailto:jordan@partridge.rocks)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-l-partridge)
 
 ---
@@ -78,6 +78,6 @@ Was going to build my own dev harness. Then [Aaron Francis](https://github.com/a
 
 **Terminal maximalist • Self-hosted • Zero cloud**
 
-[jordanpartridge.us](https://jordanpartridge.us) · [jordan@patridge.rocks](mailto:jordan@patridge.rocks)
+[jordanpartridge.us](https://jordanpartridge.us) · [jordan@partridge.rocks](mailto:jordan@partridge.rocks)
 
 </div>
