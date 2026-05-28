@@ -2,8 +2,7 @@
 
 ```text
 jordan@partridge.rocks:~$ whoami
-Jordan Partridge — builder. Laravel for the spine. Agents for the leverage.
-Self-hosted by choice. Terminal-first by conviction.
+Senior Laravel Engineer · terminal maximalist · self-hosted by choice
 
 jordan@partridge.rocks:~$ uptime
 2026 — devs came home to the terminal. About time.
@@ -21,39 +20,29 @@ The work lives in two orgs. Each has a job. Each has a vision.
 
 ### [conduit-ui](https://github.com/conduit-ui) — Integrate all the things
 
-Laravel Zero microkernel for the terminal era. Every API becomes a first-class Laravel citizen — GitHub, Strava, whatever you wire next. Components compose like Eloquent. The CLI as the integration layer, not a thin wrapper around someone else's UI.
+Laravel Zero microkernel for the terminal era. The [`conduit`](https://github.com/conduit-ui/conduit) CLI is the user-facing surface; everything else is the ecosystem that makes it more than a one-man tool.
 
-- [`conduit`](https://github.com/conduit-ui/conduit) — the core CLI
-- [`repos`](https://github.com/conduit-ui/repos) · [`prs`](https://github.com/conduit-ui/prs) · [`commits`](https://github.com/conduit-ui/commits) · [`issues`](https://github.com/conduit-ui/issues) — GitHub primitives, as first-class commands
-- [`knowledge`](https://github.com/conduit-ui/knowledge) — AI-powered knowledge base with semantic search + Qdrant
-- [`marketplace`](https://github.com/conduit-ui/marketplace) · [`conduit-component`](https://github.com/conduit-ui/conduit-component) — the extension surface
+- [`core`](https://github.com/conduit-ui/core) — the microkernel. Shared services, interfaces, component management. Everything else orbits it.
+- [`conduit-component`](https://github.com/conduit-ui/conduit-component) — scaffold for first-class components. Turns one-off scripts into ecosystem citizens.
+- [`marketplace`](https://github.com/conduit-ui/marketplace) — Claude Code plugins marketplace for the Conduit UI ecosystem.
+- [`knowledge`](https://github.com/conduit-ui/knowledge) — AI-powered knowledge base with semantic search + Qdrant.
 
 ### [the-shit](https://github.com/the-shit) — Scaling humans into tomorrow
 
-Yes, the name's a wink. *Also* the thesis. This is where the agent infrastructure lives — the workflows, memory, and swarms that turn one human into a small team without hiring one. If shit ain't tight, shit ain't right.
+Yes, the name's a wink. *Also* the thesis. This is where the agent infrastructure lives — workflows, memory, the loop between human and machine. If shit ain't tight, shit ain't right.
 
-- [`agents`](https://github.com/the-shit/agents) · [`agent-skeleton`](https://github.com/the-shit/agent-skeleton) — orchestration + base template
-- [`claude-mem`](https://github.com/the-shit/claude-mem) · [`vector`](https://github.com/the-shit/vector) — memory and recall
-- [`faster`](https://github.com/the-shit/faster) · [`music`](https://github.com/the-shit/music) · [`chat`](https://github.com/the-shit/chat) — voice, music, and the human side of the loop
+- [`core`](https://github.com/the-shit/core) — event bus + component runtime. The wiring under "Scaling humans into tomorrow."
+- [`agents`](https://github.com/the-shit/agents) — autonomous agent service. Container spawning, the daemon, GitHub App interface. Where the real work happens.
+- [`music`](https://github.com/the-shit/music) — Spotify CLI that rips. 35 commands, MCP server, AI-powered sessions. No GUI, no Electron. Proof a terminal can feel good.
 
 ---
 
 ## Personal namespace
 
-A few clients I keep under my own name because they're tools, not platforms.
+A couple of clients I keep under my own name because they're tools, not platforms.
 
 - [`github-client`](https://github.com/jordanpartridge/github-client) — Saloon-powered GitHub for Laravel. GitHub that feels like Eloquent.
 - [`strava-client`](https://github.com/jordanpartridge/strava-client) — OAuth, webhooks, retries baked in. Fitness data, production-grade.
-
----
-
-## On the Bike
-
-Biker, not cyclist. Mornings are coffee and mobility, then fat tires or e-bike pedals — whatever the body's asking for. Not chasing watts. Not training for the Tour. Stacking miles because the brain works better when the legs have done some work first.
-
-<!-- STRAVA:START -->
-*Live ride signal wiring up at `signal.jordanpartridge.us/widgets/readme.svg` — knowledge layer feeding the render.*
-<!-- STRAVA:END -->
 
 ---
 
@@ -63,18 +52,20 @@ Was going to build my own dev harness. Then [Aaron Francis](https://github.com/a
 
 ---
 
-## Currently
+## Current obsessions
 
 <!-- CURRENT:START -->
-- Agent-swarm infrastructure on the conduit-ui spine
-- conduit-ui package push — every API a Laravel citizen
-- Ride volume on the fat bike and e-bike, tracked locally
-- Lexi running point — 3 orgs, 40+ repos, the Odin homelab
+- **Voice-first coding** — talking to agents beats typing at them
+- **Agent swarms on the conduit-ui spine** — every API a Laravel citizen
+- **Zero-trust homelab** — self-hosted everything, Lexi running point across 3 orgs and 40+ repos
+- **Local-first telemetry** — track everything, leak nothing
 <!-- CURRENT:END -->
 
 ---
 
 <div align="center">
+
+Biker, not cyclist. · Self-hosted > cloud. · Ship small. Ship often. Ship clean.
 
 **Terminal maximalist • Self-hosted • Zero cloud**
 
