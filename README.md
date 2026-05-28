@@ -1,36 +1,49 @@
 # Jordan Partridge
 
 ```
-jordan@odin:~$ whoami
+jordan@patridge.rocks:~$ whoami
 Jordan Partridge — builder. Laravel for the spine. Agents for the leverage.
 Self-hosted by choice. Terminal-first by conviction.
 
-jordan@odin:~$ uptime
+jordan@patridge.rocks:~$ uptime
 2026 — devs came home to the terminal. About time.
 ```
 
 [![Site](https://img.shields.io/badge/jordanpartridge.us-1a1b27?style=flat-square)](https://jordanpartridge.us)
+[![Email](https://img.shields.io/badge/jordan%40patridge.rocks-1a1b27?style=flat-square&logo=maildotru&logoColor=white)](mailto:jordan@patridge.rocks)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-l-partridge)
 
 ---
 
-## the-shit — Scaling humans into tomorrow
+## The Orgs
 
-Less ceremony. More ship. The work below is the working theory.
+The work lives in two orgs. Each has a job. Each has a vision.
 
-## What I Ship
+### [conduit-ui](https://github.com/conduit-ui) — Integrate all the things
 
-**[conduit-ui](https://github.com/conduit-ui)** — Laravel Zero microkernel that makes every API a first-class Laravel citizen. Integrate all the things.
+Laravel Zero microkernel for the terminal era. Every API becomes a first-class Laravel citizen — GitHub, Strava, whatever you wire next. Components compose like Eloquent. The CLI as the integration layer, not a thin wrapper around someone else's UI.
 
-**[the-shit](https://github.com/the-shit)** — Scaling humans into tomorrow. The umbrella for the weird, useful stuff.
+- [`conduit`](https://github.com/conduit-ui/conduit) — the core CLI
+- [`repos`](https://github.com/conduit-ui/repos) · [`prs`](https://github.com/conduit-ui/prs) · [`commits`](https://github.com/conduit-ui/commits) · [`issues`](https://github.com/conduit-ui/issues) — GitHub primitives, as first-class commands
+- [`marketplace`](https://github.com/conduit-ui/marketplace) · [`conduit-component`](https://github.com/conduit-ui/conduit-component) — the extension surface
 
-**[prefrontal-cortex](https://github.com/jordanpartridge/prefrontal-cortex)** — Personal memory + knowledge layer. The brain behind the agents.
+### [the-shit](https://github.com/the-shit) — Scaling humans into tomorrow
 
-**[github-client](https://github.com/jordanpartridge/github-client)** — Saloon-powered GitHub for Laravel. GitHub that feels like Eloquent.
+Yes, the name's a wink. *Also* the thesis. This is where the agent infrastructure lives — the workflows, memory, and swarms that turn one human into a small team without hiring one. If shit ain't tight, shit ain't right.
 
-**[strava-client](https://github.com/jordanpartridge/strava-client)** — OAuth, webhooks, retries baked in. Fitness data, production-grade.
+- [`agents`](https://github.com/the-shit/agents) · [`swarm`](https://github.com/the-shit/swarm) · [`pr-agent`](https://github.com/the-shit/pr-agent) — orchestration
+- [`claude-mem`](https://github.com/the-shit/claude-mem) · [`mindkeeper`](https://github.com/the-shit/mindkeeper) · [`vector`](https://github.com/the-shit/vector) — memory and recall
+- [`music`](https://github.com/the-shit/music) · [`chat`](https://github.com/the-shit/chat) — the human side of the loop
 
-**[fat-bike-corps](https://github.com/fat-bike-corps)** — Bikes, brains, and the loop between them.
+---
+
+## Personal namespace
+
+A few things I keep under my own name because they're tools, not platforms.
+
+- [`github-client`](https://github.com/jordanpartridge/github-client) — Saloon-powered GitHub for Laravel. GitHub that feels like Eloquent.
+- [`strava-client`](https://github.com/jordanpartridge/strava-client) — OAuth, webhooks, retries baked in. Fitness data, production-grade.
+- [`knowledge`](https://github.com/jordanpartridge/knowledge) — Personal knowledge gateway. Multi-model AI routing, semantic search, the brain behind the agents.
 
 ---
 
@@ -39,7 +52,7 @@ Less ceremony. More ship. The work below is the working theory.
 Biker, not cyclist. Mornings are coffee and mobility, then fat tires or e-bike pedals — whatever the body's asking for. Not chasing watts. Not training for the Tour. Stacking miles because the brain works better when the legs have done some work first.
 
 <!-- STRAVA:START -->
-*Live ride signal wiring up at `signal.jordanpartridge.us/widgets/readme.svg` — prefrontal-cortex feeding the render.*
+*Live ride signal wiring up at `signal.jordanpartridge.us/widgets/readme.svg` — knowledge layer feeding the render.*
 <!-- STRAVA:END -->
 
 ---
@@ -65,6 +78,6 @@ Was going to build my own dev harness. Then [Aaron Francis](https://github.com/a
 
 **Terminal maximalist • Self-hosted • Zero cloud**
 
-[jordanpartridge.us](https://jordanpartridge.us)
+[jordanpartridge.us](https://jordanpartridge.us) · [jordan@patridge.rocks](mailto:jordan@patridge.rocks)
 
 </div>
