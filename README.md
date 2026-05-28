@@ -1,211 +1,70 @@
 # Jordan Partridge
 
-<div align="center">
-
 ```
-  ██████╗ ██████╗ ███╗   ██╗██████╗ ██╗   ██╗██╗████████╗
- ██╔════╝██╔═══██╗████╗  ██║██╔══██╗██║   ██║██║╚══██╔══╝
- ██║     ██║   ██║██╔██╗ ██║██║  ██║██║   ██║██║   ██║
- ██║     ██║   ██║██║╚██╗██║██║  ██║██║   ██║██║   ██║
- ╚██████╗╚██████╔╝██║ ╚████║██████╔╝╚██████╔╝██║   ██║
-  ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝  ╚═════╝ ╚═╝   ╚═╝
+jordan@odin:~$ whoami
+Jordan Partridge — builder. Laravel for the spine. Agents for the leverage.
+Self-hosted by choice. Terminal-first by conviction.
+
+jordan@odin:~$ uptime
+2026 — devs came home to the terminal. About time.
 ```
 
-**Developer Liberation Platform** · Laravel Advocate · AI Workflow Pioneer
-
-*Building tools that understand your code, respect your time, and amplify your impact*
-
-[![Website](https://img.shields.io/badge/jordanpartridge.us-FF7139?style=flat-square&logo=firefox-browser&logoColor=white)](https://jordanpartridge.us)
-[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jordan-l-partridge)
-
-</div>
+[![Site](https://img.shields.io/badge/jordanpartridge.us-1a1b27?style=flat-square)](https://jordanpartridge.us)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-l-partridge)
 
 ---
 
-## What I'm Building
+## the-shit — Scaling humans into tomorrow
 
-> **"Use AI to fade out the background noise"**
+Less ceremony. More ship. The work below is the working theory.
 
-I believe developers deserve tools that work *with* them, not against them.
-My work centers on three pillars:
+## What I Ship
 
-**1. Developer Liberation** - Break free from corporate toolchain tyranny
-**2. AI-Powered Workflows** - Let machines handle the mundane
-**3. Developer Wellbeing** - Because it's not just about shipping code
+**[conduit-ui](https://github.com/conduit-ui)** — Laravel Zero microkernel that makes every API a first-class Laravel citizen. Integrate all the things.
 
----
+**[the-shit](https://github.com/the-shit)** — Scaling humans into tomorrow. The umbrella for the weird, useful stuff.
 
-## Featured Projects
+**[prefrontal-cortex](https://github.com/jordanpartridge/prefrontal-cortex)** — Personal memory + knowledge layer. The brain behind the agents.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**[github-client](https://github.com/jordanpartridge/github-client)** — Saloon-powered GitHub for Laravel. GitHub that feels like Eloquent.
 
-### [Conduit](https://github.com/conduit-ui/conduit)
+**[strava-client](https://github.com/jordanpartridge/strava-client)** — OAuth, webhooks, retries baked in. Fitness data, production-grade.
 
-**Developer Liberation Platform**
-
-Laravel Zero CLI with microkernel component architecture.
-Your personal developer API gateway.
-
-```bash
-conduit ask "where is auth handled?"
-conduit discover  # find community components
-```
-
-*The CLI that knows it's 2am and actually cares*
-
-![PHP](https://img.shields.io/badge/PHP_8.3-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel Zero](https://img.shields.io/badge/Laravel_Zero-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### [github-client](https://github.com/jordanpartridge/github-client)
-
-**Laravel GitHub API Wrapper** ⭐ 4
-
-Saloon-powered GitHub integration that plays nice with Laravel.
-
-```php
-GitHub::repo('owner/repo')->issues()->list();
-```
-
-*Because GitHub integrations should feel like first-class Laravel citizens*
-
-![Stars](https://img.shields.io/github/stars/jordanpartridge/github-client?style=flat-square)
-![PHP](https://img.shields.io/badge/Saloon-777BB4?style=flat-square&logo=php&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [chat](https://github.com/jordanpartridge/chat)
-
-**Multi-Model AI Chat**
-
-Compare AI models side-by-side. Laravel 12 + Vue 3 + Inertia.js.
-
-*Switch between Claude, GPT-4, and more in a modern SPA*
-
-![Laravel 12](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### [claude-code-agents](https://github.com/jordanpartridge/claude-code-agents)
-
-**AI Workflow Automation**
-
-Specialized Claude Code agents for GitHub operations.
-
-```text
-"Commit my work and create a PR"
-→ semantic commits → PR with description → done
-```
-
-*Turn scattered repos into orchestrated workflows*
-
-![Claude](https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [strava-client](https://github.com/jordanpartridge/strava-client)
-
-**Laravel Strava Integration**
-
-Production-ready OAuth, webhooks, intelligent retry.
-
-**76 tests · 198 assertions · PHPStan Level 5**
-
-*Your fitness API integration shouldn't be harder than your workout*
-
-![Tests](https://img.shields.io/badge/Tests-76_passing-brightgreen?style=flat-square)
-![Coverage](https://img.shields.io/badge/Coverage-Tracked-blue?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### [conduit-knowledge](https://github.com/jordanpartridge/conduit-knowledge)
-
-**AI-Powered Knowledge Base**
-
-Git-aware knowledge capture with semantic search.
-
-```bash
-conduit knowledge add "TIL: Laravel 12 has..."
-conduit knowledge search "auth patterns"
-```
-
-*Your codebase's memory: never lose what you learned*
-
-![PHP](https://img.shields.io/badge/Laravel_Zero-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-</td>
-</tr>
-</table>
+**[fat-bike-corps](https://github.com/fat-bike-corps)** — Bikes, brains, and the loop between them.
 
 ---
 
-## The Ecosystem
+## On the Bike
 
-```mermaid
-flowchart TB
-    subgraph platform["CONDUIT PLATFORM"]
-        direction TB
-        subgraph clients["API Clients"]
-            gh[github-client]
-            st[strava-client]
-            sp[spotify-client]
-        end
-        clients --> knowledge[conduit-knowledge]
-        knowledge --> conduit[Conduit CLI]
-    end
+Biker, not cyclist. Mornings are coffee and mobility, then fat tires or e-bike pedals — whatever the body's asking for. Not chasing watts. Not training for the Tour. Stacking miles because the brain works better when the legs have done some work first.
 
-    style platform fill:#1a1b27,stroke:#7aa2f7,color:#c0caf5
-    style clients fill:#24283b,stroke:#7aa2f7
-    style knowledge fill:#ff9e64,stroke:#ff9e64,color:#1a1b27
-    style conduit fill:#9ece6a,stroke:#9ece6a,color:#1a1b27
-```
-
-*Code commits + Fitness + Music = Developer Wellbeing Intelligence*
+<!-- STRAVA:START -->
+*Live ride signal wiring up at `signal.jordanpartridge.us/widgets/readme.svg` — prefrontal-cortex feeding the render.*
+<!-- STRAVA:END -->
 
 ---
 
-## Philosophy
+## Built On
 
-**On Developer Tools:**
-> Every service should feel like Laravel. If it doesn't, I'll build a client for it.
-
-**On AI:**
-> AI should amplify developers, not replace them.
-> Let machines handle the mundane so you can focus on what matters.
-
-**On Wellbeing:**
-> If you're coding at 2am with lo-fi playing, maybe a gentle nudge
-> is more valuable than another productivity metric.
+Was going to build my own dev harness. Then [Aaron Francis](https://github.com/aarondfrancis) shipped [Solo](https://github.com/aarondfrancis/solo) — beyond what I'd have managed. Real ones build the rails the rest of us run on. Check it out.
 
 ---
 
 ## Currently
 
-- Building **Conduit** - the Developer Liberation Platform
-- Exploring **AI-powered codebase understanding** with conduit-knowledge
-- Managing **50+ repos** with claude-code-agents (yes, AI managing AI)
-- Cycling and tracking it with my own Strava integration
+<!-- CURRENT:START -->
+- Agent-swarm infrastructure on the conduit-ui spine
+- conduit-ui package push — every API a Laravel citizen
+- Ride volume on the fat bike and e-bike, tracked locally
+- Lexi running point — 3 orgs, 40+ repos, the Odin homelab
+<!-- CURRENT:END -->
 
 ---
 
 <div align="center">
 
-*Building tools for developers who care about craft, sustainability, and actually enjoying their work.*
+**Terminal maximalist • Self-hosted • Zero cloud**
 
-**[jordanpartridge.us](https://jordanpartridge.us)** · Fat bike fan · Perpetual optimist
+[jordanpartridge.us](https://jordanpartridge.us)
 
 </div>
