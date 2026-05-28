@@ -25,6 +25,7 @@ Laravel Zero microkernel for the terminal era. Every API becomes a first-class L
 
 - [`conduit`](https://github.com/conduit-ui/conduit) — the core CLI
 - [`repos`](https://github.com/conduit-ui/repos) · [`prs`](https://github.com/conduit-ui/prs) · [`commits`](https://github.com/conduit-ui/commits) · [`issues`](https://github.com/conduit-ui/issues) — GitHub primitives, as first-class commands
+- [`knowledge`](https://github.com/conduit-ui/knowledge) — AI-powered knowledge base with semantic search + Qdrant
 - [`marketplace`](https://github.com/conduit-ui/marketplace) · [`conduit-component`](https://github.com/conduit-ui/conduit-component) — the extension surface
 
 ### [the-shit](https://github.com/the-shit) — Scaling humans into tomorrow
@@ -39,11 +40,10 @@ Yes, the name's a wink. *Also* the thesis. This is where the agent infrastructur
 
 ## Personal namespace
 
-A few things I keep under my own name because they're tools, not platforms.
+A few clients I keep under my own name because they're tools, not platforms.
 
 - [`github-client`](https://github.com/jordanpartridge/github-client) — Saloon-powered GitHub for Laravel. GitHub that feels like Eloquent.
 - [`strava-client`](https://github.com/jordanpartridge/strava-client) — OAuth, webhooks, retries baked in. Fitness data, production-grade.
-- [`knowledge`](https://github.com/jordanpartridge/knowledge) — Personal knowledge gateway. Multi-model AI routing, semantic search, the brain behind the agents.
 
 ---
 
