@@ -32,9 +32,9 @@ Laravel Zero microkernel for the terminal era. Every API becomes a first-class L
 
 Yes, the name's a wink. *Also* the thesis. This is where the agent infrastructure lives — the workflows, memory, and swarms that turn one human into a small team without hiring one. If shit ain't tight, shit ain't right.
 
-- [`agents`](https://github.com/the-shit/agents) · [`agent-skeleton`](https://github.com/the-shit/agent-skeleton) · [`agent-devbox`](https://github.com/the-shit/agent-devbox) — orchestration + scaffolding
+- [`agents`](https://github.com/the-shit/agents) · [`agent-skeleton`](https://github.com/the-shit/agent-skeleton) — orchestration + base template
 - [`claude-mem`](https://github.com/the-shit/claude-mem) · [`vector`](https://github.com/the-shit/vector) — memory and recall
-- [`music`](https://github.com/the-shit/music) · [`chat`](https://github.com/the-shit/chat) — the human side of the loop
+- [`faster`](https://github.com/the-shit/faster) · [`music`](https://github.com/the-shit/music) · [`chat`](https://github.com/the-shit/chat) — voice, music, and the human side of the loop
 
 ---
 
