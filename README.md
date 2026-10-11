@@ -45,4 +45,3 @@ Before PSTrax I managed engineers at Goodwill. I prefer building, and I can lead
 ## Contact
 
 - Email: jordan@partridge.rocks
-- LinkedIn: <!-- TODO add URL -->
