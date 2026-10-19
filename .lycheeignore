@@ -4,3 +4,6 @@
 
 # jordanpartridge.us sits behind a Cloudflare challenge. Bots get 403.
 ^https://jordanpartridge\.us
+
+# X returns 403 for non-browser clients. twitter.com is the same site.
+^https://(www\.)?(x|twitter)\.com/
