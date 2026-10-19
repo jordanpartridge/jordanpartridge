@@ -1,3 +1,9 @@
-# LinkedIn returns HTTP 999 for any non-browser User-Agent (anti-scraping).
+# LinkedIn returns HTTP 999 or a bot challenge for non-browser clients.
 # The profile link is real; lychee just can't see it. Skip it.
-^https://www\.linkedin\.com/
+^https://(www\.)?linkedin\.com/
+
+# jordanpartridge.us sits behind a Cloudflare challenge. Bots get 403.
+^https://jordanpartridge\.us
+
+# X returns 403 for non-browser clients. twitter.com is the same site.
+^https://(www\.)?(x|twitter)\.com/
