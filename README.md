@@ -2,11 +2,10 @@
 
 Senior Laravel and full-stack engineer. I build systems that do the work, then I automate the systems.
 
-Mesa, AZ. Currently at PSTrax. Open to senior and staff Laravel roles.
+Mesa, AZ.
 
 ## What I build
 
-- **Production integrations.** At PSTrax I built the Fleetio integration: retries, logging, and the boring parts that keep data correct.
 - **API clients for Laravel.** Saloon-based clients for GitHub and Packagist that are tested and documented.
 - **Agent tooling.** Local helpers for coding-agent sessions on my own machines.
 - **Home automation.** Home Assistant with a locally cloned voice, and grocery ordering automation for Kroger/Fry's.
@@ -27,7 +26,7 @@ PHP, Laravel, Laravel Zero, Livewire, Filament, Saloon, Pest, PHPStan. Go, Rust,
 
 ## Background
 
-Before PSTrax I managed engineers at Goodwill. I prefer building, and I can lead when it's needed.
+I've managed engineering teams. I prefer building, and I can lead when it's needed.
 
 ## Links
 
