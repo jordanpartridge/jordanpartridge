@@ -16,7 +16,7 @@ Mesa, AZ.
 | --- | --- |
 | [agentctl](https://github.com/jordanpartridge/agentctl) | Go. Spawns isolated Claude Code agents in containers that work until the task is done. |
 | [github-client](https://github.com/jordanpartridge/github-client) | PHP. A GitHub API client that fits Laravel conventions. |
-| [pi-runtime-gateway](https://github.com/jordanpartridge/pi-runtime-gateway) | JS. Local HTTP runtime for coding-agent sessions: profiles, streaming, cancellation. |
+| [laravel-ai-parallel-tools](https://github.com/jordanpartridge/laravel-ai-parallel-tools) | PHP. Run opted-in tool calls from one Laravel AI agent step concurrently. |
 | [omarchy-workspaces](https://github.com/jordanpartridge/omarchy-workspaces) | QML. Omarchy bar widget that groups workspace numbers by monitor. |
 | [omarchy-build](https://github.com/jordanpartridge/omarchy-build) | Python. Early Omarchy bar plugin. The panel asks a local daemon for a session list. |
 
