@@ -1,26 +1,26 @@
 # Jordan Partridge
 
-Senior Laravel and full-stack engineer. I build systems that do the work, then I automate the systems.
+Engineer first. I build software, agents, and the systems they run on. Stacks come and go. Experience is what I bring to a contract.
 
-Mesa, AZ.
+Remote, US. Open to contract work, 3 to 6 month terms.
 
 ## What I build
 
 - **API clients for Laravel.** Saloon-based clients for GitHub and Packagist that are tested and documented.
 - **Agent tooling.** Local helpers for coding-agent sessions on my own machines.
-- **Home automation.** Home Assistant with a locally cloned voice, and grocery ordering automation for Kroger/Fry's.
+- **Home automation.** Home Assistant with a locally cloned voice.
 
 ## Featured
 
 | Project | What it is |
 | --- | --- |
-| [agentctl](https://github.com/jordanpartridge/agentctl) | Go. Spawns isolated Claude Code agents in containers that work until the task is done. |
-| [github-client](https://github.com/jordanpartridge/github-client) | PHP. A GitHub API client that fits Laravel conventions. |
-| [laravel-ai-parallel-tools](https://github.com/jordanpartridge/laravel-ai-parallel-tools) | PHP. Run opted-in tool calls from one Laravel AI agent step concurrently. |
-| [omarchy-workspaces](https://github.com/jordanpartridge/omarchy-workspaces) | QML. Omarchy bar widget that groups workspace numbers by monitor. |
-| [omarchy-build](https://github.com/jordanpartridge/omarchy-build) | Python. Early Omarchy bar plugin. The panel asks a local daemon for a session list. |
+| [agentctl](https://github.com/shadetheory/agentctl) | Go. Spawns isolated Claude Code agents in containers that work until the task is done. |
+| [github-client](https://github.com/shadetheory/github-client) | PHP. A GitHub API client that fits Laravel conventions. |
+| [laravel-ai-parallel-tools](https://github.com/shadetheory/laravel-ai-parallel-tools) | PHP. Run opted-in tool calls from one Laravel AI agent step concurrently. |
+| [omarchy-workspaces](https://github.com/shadetheory/omarchy-workspaces) | QML. Omarchy bar widget that groups workspace numbers by monitor. |
+| [omarchy-build](https://github.com/shadetheory/omarchy-build) | Python. Early Omarchy bar plugin. The panel asks a local daemon for a session list. |
 
-## Stack
+## Skills
 
 PHP, Laravel, Laravel Zero, Livewire, Filament, Saloon, Pest, PHPStan. Go, Rust, Python, TypeScript/Vue. Redis, Docker, GitHub Actions, Home Assistant. Linux (Omarchy/Hyprland).
 
@@ -32,8 +32,8 @@ I've managed engineering teams. I prefer building, and I can lead when it's need
 
 - Site: [jordanpartridge.us](https://jordanpartridge.us)
 - X: [@Shadetheory](https://x.com/Shadetheory)
-- LinkedIn: [jordanpartridge](https://linkedin.com/in/jordanpartridge)
+- LinkedIn: [Jordan Partridge](https://www.linkedin.com/in/jordan-l-partridge)
 
 ## Contact
 
-- Email: [jordan@partridge.rocks](mailto:jordan@partridge.rocks)
+- Through [jordanpartridge.us](https://jordanpartridge.us)
